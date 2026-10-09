@@ -1,0 +1,1456 @@
+======================================================================
+  ALG3 - KALİTE KATEGORİSİ BAZLI GÖRÜNTÜ LİSTESİ
+  Oluşturma: 06.03.2026 04:07:34
+  Toplam dilim: 1253
+======================================================================
+
+----------------------------------------------------------------------
+  ⚫ KRİTİK (%100 Beyin Yenme)  —  1 dilim
+----------------------------------------------------------------------
+  [ Hasta 09 — 1 dilim ]
+    09_slice0054.png           Beyin Yenme: 100.00%  Beyin Alan:  0.47%  Tiraslama: 0.468%
+
+----------------------------------------------------------------------
+  🔴 KÖTÜ   (Beyin Yenmiş)  —  49 dilim
+----------------------------------------------------------------------
+  [ Hasta 02 — 7 dilim ]
+    02_slice0056.png           Beyin Yenme:  11.12%  Beyin Alan: 21.60%  Tiraslama: 2.402%
+    02_slice0058.png           Beyin Yenme:  11.93%  Beyin Alan: 18.73%  Tiraslama: 2.234%
+    02_slice0059.png           Beyin Yenme:  15.60%  Beyin Alan: 18.73%  Tiraslama: 2.922%
+    02_slice0061.png           Beyin Yenme:  19.90%  Beyin Alan: 15.42%  Tiraslama: 3.069%
+    02_slice0064.png           Beyin Yenme:  27.96%  Beyin Alan: 11.43%  Tiraslama: 3.196%
+    02_slice0067.png           Beyin Yenme:  38.00%  Beyin Alan:  7.64%  Tiraslama: 2.905%
+    02_slice0070.png           Beyin Yenme:  67.54%  Beyin Alan:  4.23%  Tiraslama: 2.858%
+
+  [ Hasta 03 — 6 dilim ]
+    03_slice0059.png           Beyin Yenme:  14.71%  Beyin Alan: 16.97%  Tiraslama: 2.497%
+    03_slice0061.png           Beyin Yenme:  14.10%  Beyin Alan: 14.15%  Tiraslama: 1.995%
+    03_slice0062.png           Beyin Yenme:  18.53%  Beyin Alan: 14.15%  Tiraslama: 2.623%
+    03_slice0064.png           Beyin Yenme:  21.49%  Beyin Alan: 11.26%  Tiraslama: 2.418%
+    03_slice0067.png           Beyin Yenme:  28.99%  Beyin Alan:  8.31%  Tiraslama: 2.409%
+    03_slice0070.png           Beyin Yenme:  49.74%  Beyin Alan:  5.54%  Tiraslama: 2.755%
+
+  [ Hasta 05 — 7 dilim ]
+    05_slice0049.png           Beyin Yenme:  10.15%  Beyin Alan: 26.78%  Tiraslama: 2.718%
+    05_slice0051.png           Beyin Yenme:  14.91%  Beyin Alan: 23.72%  Tiraslama: 3.535%
+    05_slice0053.png           Beyin Yenme:  18.04%  Beyin Alan: 19.73%  Tiraslama: 3.559%
+    05_slice0055.png           Beyin Yenme:  22.94%  Beyin Alan: 15.65%  Tiraslama: 3.591%
+    05_slice0057.png           Beyin Yenme:  26.27%  Beyin Alan: 11.45%  Tiraslama: 3.008%
+    05_slice0059.png           Beyin Yenme:  30.26%  Beyin Alan:  7.77%  Tiraslama: 2.352%
+    05_slice0061.png           Beyin Yenme:  29.83%  Beyin Alan:  4.57%  Tiraslama: 1.365%
+
+  [ Hasta 08 — 7 dilim ]
+    08_slice0017.png           Beyin Yenme:  17.78%  Beyin Alan: 14.36%  Tiraslama: 2.554%
+    08_slice0019.png           Beyin Yenme:  12.54%  Beyin Alan: 17.95%  Tiraslama: 2.251%
+    08_slice0052.png           Beyin Yenme:  11.61%  Beyin Alan: 18.95%  Tiraslama: 2.200%
+    08_slice0054.png           Beyin Yenme:  16.43%  Beyin Alan: 15.16%  Tiraslama: 2.490%
+    08_slice0056.png           Beyin Yenme:  25.16%  Beyin Alan: 11.06%  Tiraslama: 2.781%
+    08_slice0058.png           Beyin Yenme:  46.58%  Beyin Alan:  6.58%  Tiraslama: 3.067%
+    08_slice0060.png           Beyin Yenme:  66.00%  Beyin Alan:  1.76%  Tiraslama: 1.164%
+
+  [ Hasta 09 — 11 dilim ]
+    09_slice0004.png           Beyin Yenme:  62.75%  Beyin Alan:  0.37%  Tiraslama: 0.230%
+    09_slice0005.png           Beyin Yenme:  34.15%  Beyin Alan:  2.11%  Tiraslama: 0.721%
+    09_slice0007.png           Beyin Yenme:  30.92%  Beyin Alan:  4.34%  Tiraslama: 1.341%
+    09_slice0010.png           Beyin Yenme:  11.86%  Beyin Alan:  6.64%  Tiraslama: 0.787%
+    09_slice0013.png           Beyin Yenme:  12.23%  Beyin Alan:  9.00%  Tiraslama: 1.101%
+    09_slice0040.png           Beyin Yenme:  10.88%  Beyin Alan: 17.91%  Tiraslama: 1.948%
+    09_slice0042.png           Beyin Yenme:  15.31%  Beyin Alan: 15.60%  Tiraslama: 2.388%
+    09_slice0044.png           Beyin Yenme:  17.95%  Beyin Alan: 12.69%  Tiraslama: 2.278%
+    09_slice0047.png           Beyin Yenme:  30.80%  Beyin Alan:  9.55%  Tiraslama: 2.942%
+    09_slice0049.png           Beyin Yenme:  42.94%  Beyin Alan:  6.17%  Tiraslama: 2.651%
+    09_slice0051.png           Beyin Yenme:  61.24%  Beyin Alan:  3.00%  Tiraslama: 1.835%
+
+  [ Hasta 10 — 6 dilim ]
+    10_slice0034.png           Beyin Yenme:  12.93%  Beyin Alan: 24.50%  Tiraslama: 3.168%
+    10_slice0037.png           Beyin Yenme:  18.23%  Beyin Alan: 20.73%  Tiraslama: 3.777%
+    10_slice0040.png           Beyin Yenme:  25.65%  Beyin Alan: 16.42%  Tiraslama: 4.213%
+    10_slice0043.png           Beyin Yenme:  37.27%  Beyin Alan: 11.62%  Tiraslama: 4.332%
+    10_slice0046.png           Beyin Yenme:  52.99%  Beyin Alan:  6.79%  Tiraslama: 3.600%
+    10_slice0049.png           Beyin Yenme:  91.94%  Beyin Alan:  1.61%  Tiraslama: 1.480%
+
+  [ Hasta 11 — 5 dilim ]
+    11_slice0046.png           Beyin Yenme:  16.51%  Beyin Alan: 22.37%  Tiraslama: 3.693%
+    11_slice0049.png           Beyin Yenme:  23.54%  Beyin Alan: 18.08%  Tiraslama: 4.256%
+    11_slice0052.png           Beyin Yenme:  34.17%  Beyin Alan: 13.31%  Tiraslama: 4.549%
+    11_slice0055.png           Beyin Yenme:  47.22%  Beyin Alan:  8.17%  Tiraslama: 3.858%
+    11_slice0058.png           Beyin Yenme:  72.12%  Beyin Alan:  3.05%  Tiraslama: 2.201%
+
+----------------------------------------------------------------------
+  🟡 ORTA   (Az Beyin Yenmiş)  —  46 dilim
+----------------------------------------------------------------------
+  [ Hasta 02 — 6 dilim ]
+    02_slice0044.png           Beyin Yenme:   3.11%  Beyin Alan: 29.28%  Tiraslama: 0.909%
+    02_slice0047.png           Beyin Yenme:   4.19%  Beyin Alan: 27.79%  Tiraslama: 1.165%
+    02_slice0050.png           Beyin Yenme:   6.16%  Beyin Alan: 26.08%  Tiraslama: 1.606%
+    02_slice0052.png           Beyin Yenme:   3.08%  Beyin Alan: 23.91%  Tiraslama: 0.737%
+    02_slice0053.png           Beyin Yenme:   7.60%  Beyin Alan: 23.91%  Tiraslama: 1.817%
+    02_slice0055.png           Beyin Yenme:   6.98%  Beyin Alan: 21.60%  Tiraslama: 1.508%
+
+  [ Hasta 03 — 5 dilim ]
+    03_slice0048.png           Beyin Yenme:   4.16%  Beyin Alan: 23.75%  Tiraslama: 0.988%
+    03_slice0050.png           Beyin Yenme:   3.60%  Beyin Alan: 22.40%  Tiraslama: 0.807%
+    03_slice0053.png           Beyin Yenme:   5.91%  Beyin Alan: 20.93%  Tiraslama: 1.237%
+    03_slice0056.png           Beyin Yenme:   9.27%  Beyin Alan: 19.18%  Tiraslama: 1.778%
+    03_slice0058.png           Beyin Yenme:   3.53%  Beyin Alan: 16.97%  Tiraslama: 0.600%
+
+  [ Hasta 05 — 8 dilim ]
+    05_slice0020.png           Beyin Yenme:   3.53%  Beyin Alan: 21.49%  Tiraslama: 0.758%
+    05_slice0022.png           Beyin Yenme:   4.03%  Beyin Alan: 25.47%  Tiraslama: 1.025%
+    05_slice0024.png           Beyin Yenme:   5.25%  Beyin Alan: 30.30%  Tiraslama: 1.591%
+    05_slice0026.png           Beyin Yenme:   3.86%  Beyin Alan: 33.34%  Tiraslama: 1.286%
+    05_slice0028.png           Beyin Yenme:   3.14%  Beyin Alan: 35.00%  Tiraslama: 1.097%
+    05_slice0042.png           Beyin Yenme:   3.93%  Beyin Alan: 33.79%  Tiraslama: 1.328%
+    05_slice0044.png           Beyin Yenme:   3.62%  Beyin Alan: 31.65%  Tiraslama: 1.146%
+    05_slice0046.png           Beyin Yenme:   3.22%  Beyin Alan: 29.61%  Tiraslama: 0.953%
+
+  [ Hasta 07 — 1 dilim ]
+    07_slice0045.png           Beyin Yenme:   3.01%  Beyin Alan: 23.10%  Tiraslama: 0.696%
+
+  [ Hasta 08 — 12 dilim ]
+    08_slice0021.png           Beyin Yenme:   6.68%  Beyin Alan: 19.70%  Tiraslama: 1.316%
+    08_slice0023.png           Beyin Yenme:   5.97%  Beyin Alan: 21.47%  Tiraslama: 1.282%
+    08_slice0025.png           Beyin Yenme:   4.93%  Beyin Alan: 23.03%  Tiraslama: 1.136%
+    08_slice0027.png           Beyin Yenme:   4.04%  Beyin Alan: 24.84%  Tiraslama: 1.003%
+    08_slice0029.png           Beyin Yenme:   4.69%  Beyin Alan: 27.79%  Tiraslama: 1.303%
+    08_slice0031.png           Beyin Yenme:   4.08%  Beyin Alan: 31.00%  Tiraslama: 1.264%
+    08_slice0033.png           Beyin Yenme:   3.02%  Beyin Alan: 32.63%  Tiraslama: 0.985%
+    08_slice0042.png           Beyin Yenme:   3.38%  Beyin Alan: 32.06%  Tiraslama: 1.083%
+    08_slice0044.png           Beyin Yenme:   4.16%  Beyin Alan: 30.20%  Tiraslama: 1.255%
+    08_slice0046.png           Beyin Yenme:   5.72%  Beyin Alan: 28.09%  Tiraslama: 1.606%
+    08_slice0048.png           Beyin Yenme:   7.87%  Beyin Alan: 25.46%  Tiraslama: 2.005%
+    08_slice0050.png           Beyin Yenme:   9.84%  Beyin Alan: 22.41%  Tiraslama: 2.204%
+
+  [ Hasta 09 — 6 dilim ]
+    09_slice0017.png           Beyin Yenme:   8.61%  Beyin Alan: 14.27%  Tiraslama: 1.230%
+    09_slice0019.png           Beyin Yenme:   4.95%  Beyin Alan: 16.29%  Tiraslama: 0.806%
+    09_slice0024.png           Beyin Yenme:   3.06%  Beyin Alan: 20.42%  Tiraslama: 0.625%
+    09_slice0035.png           Beyin Yenme:   4.23%  Beyin Alan: 20.84%  Tiraslama: 0.883%
+    09_slice0037.png           Beyin Yenme:   5.14%  Beyin Alan: 19.56%  Tiraslama: 1.006%
+    09_slice0053.png           Beyin Yenme:   4.16%  Beyin Alan:  0.47%  Tiraslama: 0.019%
+
+  [ Hasta 10 — 2 dilim ]
+    10_slice0028.png           Beyin Yenme:   3.75%  Beyin Alan: 28.81%  Tiraslama: 1.080%
+    10_slice0031.png           Beyin Yenme:   8.31%  Beyin Alan: 27.33%  Tiraslama: 2.272%
+
+  [ Hasta 11 — 4 dilim ]
+    11_slice0034.png           Beyin Yenme:   3.11%  Beyin Alan: 30.38%  Tiraslama: 0.946%
+    11_slice0037.png           Beyin Yenme:   4.43%  Beyin Alan: 29.10%  Tiraslama: 1.290%
+    11_slice0040.png           Beyin Yenme:   6.48%  Beyin Alan: 27.57%  Tiraslama: 1.787%
+    11_slice0043.png           Beyin Yenme:   9.79%  Beyin Alan: 25.36%  Tiraslama: 2.482%
+
+  [ Hasta 12 — 1 dilim ]
+    12_slice0030.png           Beyin Yenme:   4.09%  Beyin Alan: 28.10%  Tiraslama: 1.149%
+
+  [ Hasta 15 — 1 dilim ]
+    15_slice0035.png           Beyin Yenme:   3.53%  Beyin Alan:  1.16%  Tiraslama: 0.041%
+
+----------------------------------------------------------------------
+  🟢 İYİ  —  314 dilim
+----------------------------------------------------------------------
+  [ Hasta 01 — 18 dilim ]
+    01_slice0009.png           Beyin Yenme:   0.97%  Beyin Alan:  2.13%  Tiraslama: 0.021%
+    01_slice0010.png           Beyin Yenme:   0.51%  Beyin Alan:  3.27%  Tiraslama: 0.017%
+    01_slice0011.png           Beyin Yenme:   0.98%  Beyin Alan:  5.20%  Tiraslama: 0.051%
+    01_slice0012.png           Beyin Yenme:   0.71%  Beyin Alan:  6.04%  Tiraslama: 0.043%
+    01_slice0013.png           Beyin Yenme:   1.32%  Beyin Alan:  7.04%  Tiraslama: 0.093%
+    01_slice0014.png           Beyin Yenme:   0.52%  Beyin Alan:  7.83%  Tiraslama: 0.041%
+    01_slice0015.png           Beyin Yenme:   0.84%  Beyin Alan:  8.60%  Tiraslama: 0.072%
+    01_slice0016.png           Beyin Yenme:   0.75%  Beyin Alan:  9.11%  Tiraslama: 0.068%
+    01_slice0017.png           Beyin Yenme:   0.88%  Beyin Alan:  9.67%  Tiraslama: 0.085%
+    01_slice0018.png           Beyin Yenme:   0.87%  Beyin Alan: 10.32%  Tiraslama: 0.090%
+    01_slice0019.png           Beyin Yenme:   0.80%  Beyin Alan: 11.09%  Tiraslama: 0.089%
+    01_slice0020.png           Beyin Yenme:   0.71%  Beyin Alan: 12.09%  Tiraslama: 0.086%
+    01_slice0021.png           Beyin Yenme:   0.92%  Beyin Alan: 14.33%  Tiraslama: 0.131%
+    01_slice0022.png           Beyin Yenme:   0.53%  Beyin Alan: 16.05%  Tiraslama: 0.086%
+    01_slice0025.png           Beyin Yenme:   0.54%  Beyin Alan: 20.19%  Tiraslama: 0.109%
+    01_slice0027.png           Beyin Yenme:   0.54%  Beyin Alan: 23.20%  Tiraslama: 0.126%
+    01_slice0028.png           Beyin Yenme:   0.50%  Beyin Alan: 23.81%  Tiraslama: 0.120%
+    01_slice0057.png           Beyin Yenme:   0.60%  Beyin Alan:  6.38%  Tiraslama: 0.038%
+
+  [ Hasta 02 — 16 dilim ]
+    02_slice0007.png           Beyin Yenme:   2.21%  Beyin Alan:  6.75%  Tiraslama: 0.149%
+    02_slice0011.png           Beyin Yenme:   2.47%  Beyin Alan: 13.43%  Tiraslama: 0.332%
+    02_slice0021.png           Beyin Yenme:   0.88%  Beyin Alan: 30.11%  Tiraslama: 0.264%
+    02_slice0022.png           Beyin Yenme:   1.11%  Beyin Alan: 30.58%  Tiraslama: 0.339%
+    02_slice0025.png           Beyin Yenme:   0.53%  Beyin Alan: 30.83%  Tiraslama: 0.164%
+    02_slice0030.png           Beyin Yenme:   0.57%  Beyin Alan: 30.95%  Tiraslama: 0.175%
+    02_slice0031.png           Beyin Yenme:   0.80%  Beyin Alan: 31.31%  Tiraslama: 0.251%
+    02_slice0032.png           Beyin Yenme:   0.56%  Beyin Alan: 31.31%  Tiraslama: 0.177%
+    02_slice0033.png           Beyin Yenme:   0.93%  Beyin Alan: 31.31%  Tiraslama: 0.292%
+    02_slice0034.png           Beyin Yenme:   1.04%  Beyin Alan: 31.72%  Tiraslama: 0.328%
+    02_slice0035.png           Beyin Yenme:   1.08%  Beyin Alan: 31.72%  Tiraslama: 0.344%
+    02_slice0036.png           Beyin Yenme:   0.76%  Beyin Alan: 31.49%  Tiraslama: 0.240%
+    02_slice0037.png           Beyin Yenme:   0.54%  Beyin Alan: 31.49%  Tiraslama: 0.169%
+    02_slice0038.png           Beyin Yenme:   2.16%  Beyin Alan: 31.49%  Tiraslama: 0.681%
+    02_slice0041.png           Beyin Yenme:   1.98%  Beyin Alan: 30.47%  Tiraslama: 0.603%
+    02_slice0072.png           Beyin Yenme:   1.72%  Beyin Alan:  0.24%  Tiraslama: 0.004%
+
+  [ Hasta 03 — 22 dilim ]
+    03_slice0007.png           Beyin Yenme:   0.86%  Beyin Alan:  4.13%  Tiraslama: 0.035%
+    03_slice0008.png           Beyin Yenme:   0.53%  Beyin Alan:  5.79%  Tiraslama: 0.030%
+    03_slice0010.png           Beyin Yenme:   1.11%  Beyin Alan:  7.62%  Tiraslama: 0.084%
+    03_slice0012.png           Beyin Yenme:   1.85%  Beyin Alan: 10.86%  Tiraslama: 0.201%
+    03_slice0014.png           Beyin Yenme:   0.71%  Beyin Alan: 13.60%  Tiraslama: 0.096%
+    03_slice0015.png           Beyin Yenme:   0.54%  Beyin Alan: 15.62%  Tiraslama: 0.085%
+    03_slice0027.png           Beyin Yenme:   0.66%  Beyin Alan: 25.34%  Tiraslama: 0.167%
+    03_slice0029.png           Beyin Yenme:   1.35%  Beyin Alan: 25.46%  Tiraslama: 0.345%
+    03_slice0030.png           Beyin Yenme:   0.64%  Beyin Alan: 25.46%  Tiraslama: 0.164%
+    03_slice0031.png           Beyin Yenme:   0.62%  Beyin Alan: 25.46%  Tiraslama: 0.159%
+    03_slice0032.png           Beyin Yenme:   1.35%  Beyin Alan: 25.72%  Tiraslama: 0.346%
+    03_slice0034.png           Beyin Yenme:   0.96%  Beyin Alan: 25.72%  Tiraslama: 0.247%
+    03_slice0035.png           Beyin Yenme:   1.16%  Beyin Alan: 25.89%  Tiraslama: 0.301%
+    03_slice0036.png           Beyin Yenme:   0.67%  Beyin Alan: 25.89%  Tiraslama: 0.174%
+    03_slice0037.png           Beyin Yenme:   1.26%  Beyin Alan: 25.89%  Tiraslama: 0.327%
+    03_slice0038.png           Beyin Yenme:   0.67%  Beyin Alan: 25.66%  Tiraslama: 0.171%
+    03_slice0039.png           Beyin Yenme:   1.15%  Beyin Alan: 25.66%  Tiraslama: 0.295%
+    03_slice0042.png           Beyin Yenme:   1.72%  Beyin Alan: 25.27%  Tiraslama: 0.434%
+    03_slice0045.png           Beyin Yenme:   2.32%  Beyin Alan: 24.62%  Tiraslama: 0.571%
+    03_slice0047.png           Beyin Yenme:   1.72%  Beyin Alan: 23.75%  Tiraslama: 0.409%
+    03_slice0069.png           Beyin Yenme:   1.36%  Beyin Alan:  5.54%  Tiraslama: 0.075%
+    03_slice0074.png           Beyin Yenme:   0.65%  Beyin Alan:  0.12%  Tiraslama: 0.001%
+
+  [ Hasta 04 — 5 dilim ]
+    04_slice0001.png           Beyin Yenme:   2.57%  Beyin Alan:  0.70%  Tiraslama: 0.018%
+    04_slice0009.png           Beyin Yenme:   0.53%  Beyin Alan:  7.67%  Tiraslama: 0.041%
+    04_slice0010.png           Beyin Yenme:   0.58%  Beyin Alan:  8.86%  Tiraslama: 0.051%
+    04_slice0057.png           Beyin Yenme:   0.66%  Beyin Alan:  0.63%  Tiraslama: 0.004%
+    04_slice0058.png           Beyin Yenme:   0.59%  Beyin Alan:  0.19%  Tiraslama: 0.001%
+
+  [ Hasta 05 — 13 dilim ]
+    05_slice0006.png           Beyin Yenme:   1.45%  Beyin Alan:  0.58%  Tiraslama: 0.008%
+    05_slice0007.png           Beyin Yenme:   1.35%  Beyin Alan:  2.89%  Tiraslama: 0.039%
+    05_slice0009.png           Beyin Yenme:   0.96%  Beyin Alan:  5.89%  Tiraslama: 0.057%
+    05_slice0010.png           Beyin Yenme:   1.80%  Beyin Alan:  7.01%  Tiraslama: 0.126%
+    05_slice0013.png           Beyin Yenme:   0.67%  Beyin Alan: 11.23%  Tiraslama: 0.075%
+    05_slice0014.png           Beyin Yenme:   0.63%  Beyin Alan: 13.08%  Tiraslama: 0.083%
+    05_slice0017.png           Beyin Yenme:   0.91%  Beyin Alan: 17.91%  Tiraslama: 0.163%
+    05_slice0030.png           Beyin Yenme:   1.95%  Beyin Alan: 35.86%  Tiraslama: 0.700%
+    05_slice0032.png           Beyin Yenme:   0.92%  Beyin Alan: 36.05%  Tiraslama: 0.330%
+    05_slice0034.png           Beyin Yenme:   0.60%  Beyin Alan: 36.05%  Tiraslama: 0.217%
+    05_slice0036.png           Beyin Yenme:   0.96%  Beyin Alan: 35.83%  Tiraslama: 0.344%
+    05_slice0038.png           Beyin Yenme:   1.06%  Beyin Alan: 35.42%  Tiraslama: 0.375%
+    05_slice0040.png           Beyin Yenme:   1.79%  Beyin Alan: 34.78%  Tiraslama: 0.622%
+
+  [ Hasta 06 — 9 dilim ]
+    06_slice0004.png           Beyin Yenme:   0.52%  Beyin Alan:  0.36%  Tiraslama: 0.002%
+    06_slice0005.png           Beyin Yenme:   0.55%  Beyin Alan:  2.58%  Tiraslama: 0.014%
+    06_slice0008.png           Beyin Yenme:   1.04%  Beyin Alan:  5.49%  Tiraslama: 0.057%
+    06_slice0009.png           Beyin Yenme:   0.79%  Beyin Alan:  6.12%  Tiraslama: 0.048%
+    06_slice0010.png           Beyin Yenme:   0.95%  Beyin Alan:  6.72%  Tiraslama: 0.064%
+    06_slice0011.png           Beyin Yenme:   0.59%  Beyin Alan:  7.54%  Tiraslama: 0.044%
+    06_slice0013.png           Beyin Yenme:   0.64%  Beyin Alan:  9.30%  Tiraslama: 0.059%
+    06_slice0014.png           Beyin Yenme:   0.51%  Beyin Alan:  9.93%  Tiraslama: 0.051%
+    06_slice0015.png           Beyin Yenme:   0.53%  Beyin Alan: 11.82%  Tiraslama: 0.063%
+
+  [ Hasta 07 — 13 dilim ]
+    07_slice0009.png           Beyin Yenme:   0.96%  Beyin Alan:  2.74%  Tiraslama: 0.026%
+    07_slice0012.png           Beyin Yenme:   1.87%  Beyin Alan:  5.36%  Tiraslama: 0.100%
+    07_slice0014.png           Beyin Yenme:   1.01%  Beyin Alan:  8.31%  Tiraslama: 0.084%
+    07_slice0017.png           Beyin Yenme:   0.55%  Beyin Alan: 14.38%  Tiraslama: 0.080%
+    07_slice0018.png           Beyin Yenme:   0.84%  Beyin Alan: 15.49%  Tiraslama: 0.130%
+    07_slice0019.png           Beyin Yenme:   0.52%  Beyin Alan: 17.66%  Tiraslama: 0.092%
+    07_slice0033.png           Beyin Yenme:   0.63%  Beyin Alan: 30.43%  Tiraslama: 0.192%
+    07_slice0034.png           Beyin Yenme:   0.57%  Beyin Alan: 30.20%  Tiraslama: 0.172%
+    07_slice0035.png           Beyin Yenme:   0.89%  Beyin Alan: 29.98%  Tiraslama: 0.268%
+    07_slice0036.png           Beyin Yenme:   0.63%  Beyin Alan: 29.52%  Tiraslama: 0.186%
+    07_slice0043.png           Beyin Yenme:   2.86%  Beyin Alan: 25.30%  Tiraslama: 0.724%
+    07_slice0044.png           Beyin Yenme:   2.42%  Beyin Alan: 24.20%  Tiraslama: 0.587%
+    07_slice0046.png           Beyin Yenme:   1.08%  Beyin Alan: 21.80%  Tiraslama: 0.235%
+
+  [ Hasta 08 — 22 dilim ]
+    08_slice0007.png           Beyin Yenme:   2.79%  Beyin Alan:  0.88%  Tiraslama: 0.024%
+    08_slice0008.png           Beyin Yenme:   2.22%  Beyin Alan:  3.81%  Tiraslama: 0.085%
+    08_slice0009.png           Beyin Yenme:   0.91%  Beyin Alan:  4.92%  Tiraslama: 0.045%
+    08_slice0010.png           Beyin Yenme:   1.02%  Beyin Alan:  5.55%  Tiraslama: 0.057%
+    08_slice0011.png           Beyin Yenme:   1.52%  Beyin Alan:  6.60%  Tiraslama: 0.100%
+    08_slice0012.png           Beyin Yenme:   0.88%  Beyin Alan:  7.67%  Tiraslama: 0.067%
+    08_slice0013.png           Beyin Yenme:   0.65%  Beyin Alan:  8.44%  Tiraslama: 0.055%
+    08_slice0014.png           Beyin Yenme:   0.64%  Beyin Alan:  9.22%  Tiraslama: 0.059%
+    08_slice0015.png           Beyin Yenme:   0.67%  Beyin Alan:  9.93%  Tiraslama: 0.066%
+    08_slice0016.png           Beyin Yenme:   0.70%  Beyin Alan: 11.02%  Tiraslama: 0.077%
+    08_slice0020.png           Beyin Yenme:   0.57%  Beyin Alan: 17.95%  Tiraslama: 0.102%
+    08_slice0022.png           Beyin Yenme:   0.64%  Beyin Alan: 19.70%  Tiraslama: 0.127%
+    08_slice0024.png           Beyin Yenme:   0.66%  Beyin Alan: 21.47%  Tiraslama: 0.141%
+    08_slice0026.png           Beyin Yenme:   0.77%  Beyin Alan: 23.03%  Tiraslama: 0.177%
+    08_slice0032.png           Beyin Yenme:   0.53%  Beyin Alan: 31.00%  Tiraslama: 0.163%
+    08_slice0034.png           Beyin Yenme:   0.92%  Beyin Alan: 32.63%  Tiraslama: 0.299%
+    08_slice0035.png           Beyin Yenme:   2.44%  Beyin Alan: 33.20%  Tiraslama: 0.810%
+    08_slice0036.png           Beyin Yenme:   1.13%  Beyin Alan: 33.20%  Tiraslama: 0.375%
+    08_slice0037.png           Beyin Yenme:   2.31%  Beyin Alan: 33.63%  Tiraslama: 0.777%
+    08_slice0038.png           Beyin Yenme:   2.30%  Beyin Alan: 33.63%  Tiraslama: 0.773%
+    08_slice0039.png           Beyin Yenme:   1.67%  Beyin Alan: 33.16%  Tiraslama: 0.553%
+    08_slice0040.png           Beyin Yenme:   1.69%  Beyin Alan: 33.16%  Tiraslama: 0.559%
+
+  [ Hasta 09 — 17 dilim ]
+    09_slice0009.png           Beyin Yenme:   1.25%  Beyin Alan:  5.56%  Tiraslama: 0.069%
+    09_slice0011.png           Beyin Yenme:   0.69%  Beyin Alan:  6.64%  Tiraslama: 0.046%
+    09_slice0015.png           Beyin Yenme:   1.80%  Beyin Alan: 11.52%  Tiraslama: 0.207%
+    09_slice0016.png           Beyin Yenme:   0.52%  Beyin Alan: 11.77%  Tiraslama: 0.061%
+    09_slice0020.png           Beyin Yenme:   1.22%  Beyin Alan: 16.29%  Tiraslama: 0.200%
+    09_slice0022.png           Beyin Yenme:   1.74%  Beyin Alan: 18.58%  Tiraslama: 0.324%
+    09_slice0025.png           Beyin Yenme:   0.50%  Beyin Alan: 20.42%  Tiraslama: 0.103%
+    09_slice0026.png           Beyin Yenme:   1.03%  Beyin Alan: 20.42%  Tiraslama: 0.209%
+    09_slice0027.png           Beyin Yenme:   0.92%  Beyin Alan: 21.36%  Tiraslama: 0.196%
+    09_slice0028.png           Beyin Yenme:   1.34%  Beyin Alan: 21.36%  Tiraslama: 0.285%
+    09_slice0029.png           Beyin Yenme:   1.29%  Beyin Alan: 21.78%  Tiraslama: 0.280%
+    09_slice0030.png           Beyin Yenme:   0.82%  Beyin Alan: 21.78%  Tiraslama: 0.179%
+    09_slice0031.png           Beyin Yenme:   0.58%  Beyin Alan: 21.57%  Tiraslama: 0.126%
+    09_slice0032.png           Beyin Yenme:   0.84%  Beyin Alan: 21.57%  Tiraslama: 0.181%
+    09_slice0033.png           Beyin Yenme:   2.61%  Beyin Alan: 21.57%  Tiraslama: 0.564%
+    09_slice0039.png           Beyin Yenme:   2.44%  Beyin Alan: 17.91%  Tiraslama: 0.437%
+    09_slice0046.png           Beyin Yenme:   2.84%  Beyin Alan:  9.55%  Tiraslama: 0.271%
+
+  [ Hasta 10 — 17 dilim ]
+    10_slice0006.png           Beyin Yenme:   1.19%  Beyin Alan:  2.56%  Tiraslama: 0.030%
+    10_slice0007.png           Beyin Yenme:   1.55%  Beyin Alan:  5.08%  Tiraslama: 0.079%
+    10_slice0008.png           Beyin Yenme:   1.44%  Beyin Alan:  7.65%  Tiraslama: 0.110%
+    10_slice0009.png           Beyin Yenme:   1.15%  Beyin Alan:  9.63%  Tiraslama: 0.111%
+    10_slice0010.png           Beyin Yenme:   1.14%  Beyin Alan: 12.67%  Tiraslama: 0.144%
+    10_slice0011.png           Beyin Yenme:   1.21%  Beyin Alan: 14.88%  Tiraslama: 0.180%
+    10_slice0012.png           Beyin Yenme:   0.93%  Beyin Alan: 16.42%  Tiraslama: 0.153%
+    10_slice0013.png           Beyin Yenme:   0.76%  Beyin Alan: 18.31%  Tiraslama: 0.139%
+    10_slice0014.png           Beyin Yenme:   1.05%  Beyin Alan: 22.07%  Tiraslama: 0.232%
+    10_slice0015.png           Beyin Yenme:   0.71%  Beyin Alan: 24.14%  Tiraslama: 0.172%
+    10_slice0016.png           Beyin Yenme:   0.58%  Beyin Alan: 25.69%  Tiraslama: 0.149%
+    10_slice0017.png           Beyin Yenme:   0.60%  Beyin Alan: 26.54%  Tiraslama: 0.159%
+    10_slice0021.png           Beyin Yenme:   0.52%  Beyin Alan: 28.17%  Tiraslama: 0.147%
+    10_slice0025.png           Beyin Yenme:   1.97%  Beyin Alan: 28.65%  Tiraslama: 0.565%
+    10_slice0026.png           Beyin Yenme:   2.18%  Beyin Alan: 28.81%  Tiraslama: 0.628%
+    10_slice0045.png           Beyin Yenme:   0.52%  Beyin Alan:  6.79%  Tiraslama: 0.035%
+    10_slice0048.png           Beyin Yenme:   0.59%  Beyin Alan:  1.61%  Tiraslama: 0.009%
+
+  [ Hasta 11 — 25 dilim ]
+    11_slice0011.png           Beyin Yenme:   1.21%  Beyin Alan:  2.56%  Tiraslama: 0.031%
+    11_slice0012.png           Beyin Yenme:   1.87%  Beyin Alan:  4.50%  Tiraslama: 0.084%
+    11_slice0013.png           Beyin Yenme:   1.22%  Beyin Alan:  7.25%  Tiraslama: 0.088%
+    11_slice0014.png           Beyin Yenme:   0.94%  Beyin Alan:  9.57%  Tiraslama: 0.090%
+    11_slice0015.png           Beyin Yenme:   0.85%  Beyin Alan: 11.13%  Tiraslama: 0.094%
+    11_slice0016.png           Beyin Yenme:   1.19%  Beyin Alan: 13.38%  Tiraslama: 0.159%
+    11_slice0017.png           Beyin Yenme:   1.11%  Beyin Alan: 15.67%  Tiraslama: 0.174%
+    11_slice0018.png           Beyin Yenme:   0.89%  Beyin Alan: 18.01%  Tiraslama: 0.160%
+    11_slice0019.png           Beyin Yenme:   0.88%  Beyin Alan: 20.80%  Tiraslama: 0.182%
+    11_slice0020.png           Beyin Yenme:   0.79%  Beyin Alan: 23.62%  Tiraslama: 0.186%
+    11_slice0021.png           Beyin Yenme:   0.68%  Beyin Alan: 26.29%  Tiraslama: 0.179%
+    11_slice0022.png           Beyin Yenme:   0.66%  Beyin Alan: 27.80%  Tiraslama: 0.184%
+    11_slice0023.png           Beyin Yenme:   0.64%  Beyin Alan: 28.96%  Tiraslama: 0.185%
+    11_slice0024.png           Beyin Yenme:   0.61%  Beyin Alan: 29.56%  Tiraslama: 0.179%
+    11_slice0025.png           Beyin Yenme:   0.62%  Beyin Alan: 29.26%  Tiraslama: 0.181%
+    11_slice0026.png           Beyin Yenme:   2.98%  Beyin Alan: 30.35%  Tiraslama: 0.904%
+    11_slice0027.png           Beyin Yenme:   0.63%  Beyin Alan: 30.35%  Tiraslama: 0.192%
+    11_slice0028.png           Beyin Yenme:   1.28%  Beyin Alan: 30.35%  Tiraslama: 0.390%
+    11_slice0029.png           Beyin Yenme:   2.10%  Beyin Alan: 30.54%  Tiraslama: 0.641%
+    11_slice0031.png           Beyin Yenme:   1.71%  Beyin Alan: 30.54%  Tiraslama: 0.521%
+    11_slice0032.png           Beyin Yenme:   1.46%  Beyin Alan: 30.38%  Tiraslama: 0.444%
+    11_slice0033.png           Beyin Yenme:   0.51%  Beyin Alan: 30.38%  Tiraslama: 0.156%
+    11_slice0036.png           Beyin Yenme:   0.51%  Beyin Alan: 29.10%  Tiraslama: 0.148%
+    11_slice0042.png           Beyin Yenme:   0.53%  Beyin Alan: 25.36%  Tiraslama: 0.133%
+    11_slice0051.png           Beyin Yenme:   0.51%  Beyin Alan: 13.31%  Tiraslama: 0.068%
+
+  [ Hasta 12 — 21 dilim ]
+    12_slice0008.png           Beyin Yenme:   1.64%  Beyin Alan:  3.65%  Tiraslama: 0.060%
+    12_slice0009.png           Beyin Yenme:   0.57%  Beyin Alan:  5.72%  Tiraslama: 0.032%
+    12_slice0010.png           Beyin Yenme:   0.97%  Beyin Alan:  7.41%  Tiraslama: 0.072%
+    12_slice0012.png           Beyin Yenme:   0.73%  Beyin Alan:  9.28%  Tiraslama: 0.068%
+    12_slice0013.png           Beyin Yenme:   2.11%  Beyin Alan: 10.07%  Tiraslama: 0.212%
+    12_slice0014.png           Beyin Yenme:   1.14%  Beyin Alan: 11.49%  Tiraslama: 0.131%
+    12_slice0018.png           Beyin Yenme:   0.72%  Beyin Alan: 22.77%  Tiraslama: 0.163%
+    12_slice0019.png           Beyin Yenme:   0.99%  Beyin Alan: 23.44%  Tiraslama: 0.232%
+    12_slice0020.png           Beyin Yenme:   0.82%  Beyin Alan: 23.95%  Tiraslama: 0.196%
+    12_slice0021.png           Beyin Yenme:   1.83%  Beyin Alan: 24.39%  Tiraslama: 0.448%
+    12_slice0022.png           Beyin Yenme:   0.94%  Beyin Alan: 25.34%  Tiraslama: 0.239%
+    12_slice0023.png           Beyin Yenme:   0.61%  Beyin Alan: 26.39%  Tiraslama: 0.162%
+    12_slice0024.png           Beyin Yenme:   0.63%  Beyin Alan: 27.56%  Tiraslama: 0.172%
+    12_slice0026.png           Beyin Yenme:   0.57%  Beyin Alan: 30.12%  Tiraslama: 0.173%
+    12_slice0027.png           Beyin Yenme:   0.84%  Beyin Alan: 30.51%  Tiraslama: 0.256%
+    12_slice0028.png           Beyin Yenme:   1.47%  Beyin Alan: 30.29%  Tiraslama: 0.445%
+    12_slice0029.png           Beyin Yenme:   2.27%  Beyin Alan: 29.46%  Tiraslama: 0.668%
+    12_slice0031.png           Beyin Yenme:   2.29%  Beyin Alan: 26.15%  Tiraslama: 0.599%
+    12_slice0032.png           Beyin Yenme:   2.68%  Beyin Alan: 23.88%  Tiraslama: 0.639%
+    12_slice0038.png           Beyin Yenme:   0.73%  Beyin Alan:  5.51%  Tiraslama: 0.040%
+    12_slice0039.png           Beyin Yenme:   0.69%  Beyin Alan:  1.05%  Tiraslama: 0.007%
+
+  [ Hasta 13 — 3 dilim ]
+    13_slice0004.png           Beyin Yenme:   0.71%  Beyin Alan:  4.67%  Tiraslama: 0.033%
+    13_slice0006.png           Beyin Yenme:   0.60%  Beyin Alan: 13.40%  Tiraslama: 0.081%
+    13_slice0027.png           Beyin Yenme:   1.20%  Beyin Alan:  0.73%  Tiraslama: 0.009%
+
+  [ Hasta 14 — 11 dilim ]
+    14_slice0008.png           Beyin Yenme:   0.67%  Beyin Alan:  3.73%  Tiraslama: 0.025%
+    14_slice0009.png           Beyin Yenme:   0.53%  Beyin Alan:  5.06%  Tiraslama: 0.027%
+    14_slice0010.png           Beyin Yenme:   1.20%  Beyin Alan:  7.30%  Tiraslama: 0.087%
+    14_slice0011.png           Beyin Yenme:   2.11%  Beyin Alan:  8.73%  Tiraslama: 0.184%
+    14_slice0013.png           Beyin Yenme:   0.69%  Beyin Alan: 12.92%  Tiraslama: 0.089%
+    14_slice0021.png           Beyin Yenme:   0.67%  Beyin Alan: 26.27%  Tiraslama: 0.176%
+    14_slice0023.png           Beyin Yenme:   0.97%  Beyin Alan: 27.30%  Tiraslama: 0.264%
+    14_slice0024.png           Beyin Yenme:   0.88%  Beyin Alan: 28.02%  Tiraslama: 0.246%
+    14_slice0025.png           Beyin Yenme:   1.52%  Beyin Alan: 28.55%  Tiraslama: 0.435%
+    14_slice0036.png           Beyin Yenme:   0.89%  Beyin Alan:  1.98%  Tiraslama: 0.018%
+    14_slice0038.png           Beyin Yenme:   0.67%  Beyin Alan:  0.51%  Tiraslama: 0.003%
+
+  [ Hasta 15 — 8 dilim ]
+    15_slice0006.png           Beyin Yenme:   0.81%  Beyin Alan:  5.95%  Tiraslama: 0.048%
+    15_slice0008.png           Beyin Yenme:   0.54%  Beyin Alan:  9.04%  Tiraslama: 0.049%
+    15_slice0009.png           Beyin Yenme:   0.93%  Beyin Alan: 10.71%  Tiraslama: 0.100%
+    15_slice0010.png           Beyin Yenme:   1.04%  Beyin Alan: 12.11%  Tiraslama: 0.126%
+    15_slice0022.png           Beyin Yenme:   1.05%  Beyin Alan: 29.04%  Tiraslama: 0.305%
+    15_slice0023.png           Beyin Yenme:   1.55%  Beyin Alan: 29.77%  Tiraslama: 0.461%
+    15_slice0024.png           Beyin Yenme:   1.86%  Beyin Alan: 30.29%  Tiraslama: 0.563%
+    15_slice0025.png           Beyin Yenme:   2.92%  Beyin Alan: 30.04%  Tiraslama: 0.878%
+
+  [ Hasta 16 — 5 dilim ]
+    16_slice0007.png           Beyin Yenme:   2.02%  Beyin Alan:  2.70%  Tiraslama: 0.055%
+    16_slice0015.png           Beyin Yenme:   1.34%  Beyin Alan: 26.52%  Tiraslama: 0.356%
+    16_slice0020.png           Beyin Yenme:   1.29%  Beyin Alan: 31.21%  Tiraslama: 0.403%
+    16_slice0031.png           Beyin Yenme:   0.65%  Beyin Alan:  6.55%  Tiraslama: 0.043%
+    16_slice0032.png           Beyin Yenme:   1.46%  Beyin Alan:  2.17%  Tiraslama: 0.032%
+
+  [ Hasta 17 — 5 dilim ]
+    17_slice0007.png           Beyin Yenme:   0.65%  Beyin Alan:  2.05%  Tiraslama: 0.013%
+    17_slice0009.png           Beyin Yenme:   0.56%  Beyin Alan:  6.02%  Tiraslama: 0.034%
+    17_slice0010.png           Beyin Yenme:   0.69%  Beyin Alan:  7.19%  Tiraslama: 0.050%
+    17_slice0013.png           Beyin Yenme:   0.83%  Beyin Alan: 16.25%  Tiraslama: 0.135%
+    17_slice0014.png           Beyin Yenme:   0.62%  Beyin Alan: 17.65%  Tiraslama: 0.109%
+
+  [ Hasta 18 — 15 dilim ]
+    18_slice0003.png           Beyin Yenme:   0.88%  Beyin Alan:  2.38%  Tiraslama: 0.021%
+    18_slice0004.png           Beyin Yenme:   0.72%  Beyin Alan:  6.15%  Tiraslama: 0.044%
+    18_slice0005.png           Beyin Yenme:   0.78%  Beyin Alan:  7.86%  Tiraslama: 0.061%
+    18_slice0006.png           Beyin Yenme:   1.29%  Beyin Alan:  9.02%  Tiraslama: 0.116%
+    18_slice0007.png           Beyin Yenme:   0.78%  Beyin Alan: 10.43%  Tiraslama: 0.081%
+    18_slice0008.png           Beyin Yenme:   0.64%  Beyin Alan: 13.39%  Tiraslama: 0.086%
+    18_slice0009.png           Beyin Yenme:   0.73%  Beyin Alan: 17.15%  Tiraslama: 0.125%
+    18_slice0010.png           Beyin Yenme:   0.62%  Beyin Alan: 15.90%  Tiraslama: 0.099%
+    18_slice0011.png           Beyin Yenme:   0.50%  Beyin Alan: 18.96%  Tiraslama: 0.095%
+    18_slice0013.png           Beyin Yenme:   0.61%  Beyin Alan: 24.02%  Tiraslama: 0.146%
+    18_slice0014.png           Beyin Yenme:   0.52%  Beyin Alan: 24.93%  Tiraslama: 0.130%
+    18_slice0021.png           Beyin Yenme:   0.52%  Beyin Alan: 27.87%  Tiraslama: 0.144%
+    18_slice0025.png           Beyin Yenme:   0.56%  Beyin Alan: 17.86%  Tiraslama: 0.100%
+    18_slice0026.png           Beyin Yenme:   0.58%  Beyin Alan: 14.26%  Tiraslama: 0.083%
+    18_slice0028.png           Beyin Yenme:   0.51%  Beyin Alan:  6.01%  Tiraslama: 0.031%
+
+  [ Hasta 19 — 4 dilim ]
+    19_slice0006.png           Beyin Yenme:   0.68%  Beyin Alan:  8.19%  Tiraslama: 0.056%
+    19_slice0007.png           Beyin Yenme:   0.58%  Beyin Alan:  9.92%  Tiraslama: 0.058%
+    19_slice0008.png           Beyin Yenme:   0.59%  Beyin Alan: 11.33%  Tiraslama: 0.067%
+    19_slice0016.png           Beyin Yenme:   0.54%  Beyin Alan: 30.86%  Tiraslama: 0.165%
+
+  [ Hasta 20 — 6 dilim ]
+    20_slice0004.png           Beyin Yenme:   1.75%  Beyin Alan:  1.42%  Tiraslama: 0.025%
+    20_slice0005.png           Beyin Yenme:   0.62%  Beyin Alan:  1.66%  Tiraslama: 0.010%
+    20_slice0007.png           Beyin Yenme:   0.79%  Beyin Alan:  6.89%  Tiraslama: 0.054%
+    20_slice0009.png           Beyin Yenme:   0.52%  Beyin Alan:  9.40%  Tiraslama: 0.048%
+    20_slice0010.png           Beyin Yenme:   0.62%  Beyin Alan: 11.64%  Tiraslama: 0.072%
+    20_slice0011.png           Beyin Yenme:   0.50%  Beyin Alan: 15.38%  Tiraslama: 0.077%
+
+  [ Hasta 21 — 4 dilim ]
+    21_slice0007.png           Beyin Yenme:   1.91%  Beyin Alan:  5.73%  Tiraslama: 0.110%
+    21_slice0010.png           Beyin Yenme:   0.56%  Beyin Alan: 10.03%  Tiraslama: 0.056%
+    21_slice0012.png           Beyin Yenme:   1.39%  Beyin Alan: 15.91%  Tiraslama: 0.221%
+    21_slice0013.png           Beyin Yenme:   2.50%  Beyin Alan: 17.24%  Tiraslama: 0.432%
+
+  [ Hasta 22 — 3 dilim ]
+    22_slice0004.png           Beyin Yenme:   0.68%  Beyin Alan:  2.15%  Tiraslama: 0.015%
+    22_slice0005.png           Beyin Yenme:   0.61%  Beyin Alan:  4.17%  Tiraslama: 0.026%
+    22_slice0007.png           Beyin Yenme:   0.56%  Beyin Alan:  8.94%  Tiraslama: 0.050%
+
+  [ Hasta 23 — 5 dilim ]
+    23_slice0002.png           Beyin Yenme:   0.88%  Beyin Alan:  2.82%  Tiraslama: 0.025%
+    23_slice0003.png           Beyin Yenme:   1.32%  Beyin Alan:  5.88%  Tiraslama: 0.078%
+    23_slice0004.png           Beyin Yenme:   1.10%  Beyin Alan:  8.91%  Tiraslama: 0.098%
+    23_slice0005.png           Beyin Yenme:   0.58%  Beyin Alan: 11.98%  Tiraslama: 0.069%
+    23_slice0006.png           Beyin Yenme:   0.60%  Beyin Alan: 14.58%  Tiraslama: 0.087%
+
+  [ Hasta 24 — 2 dilim ]
+    24_slice0005.png           Beyin Yenme:   1.17%  Beyin Alan:  2.08%  Tiraslama: 0.024%
+    24_slice0007.png           Beyin Yenme:   0.61%  Beyin Alan:  7.12%  Tiraslama: 0.043%
+
+  [ Hasta 25 — 2 dilim ]
+    25_slice0005.png           Beyin Yenme:   1.05%  Beyin Alan:  6.35%  Tiraslama: 0.067%
+    25_slice0006.png           Beyin Yenme:   0.58%  Beyin Alan:  9.94%  Tiraslama: 0.058%
+
+  [ Hasta 26 — 2 dilim ]
+    26_slice0005.png           Beyin Yenme:   0.58%  Beyin Alan:  4.71%  Tiraslama: 0.028%
+    26_slice0009.png           Beyin Yenme:   0.53%  Beyin Alan: 10.74%  Tiraslama: 0.057%
+
+  [ Hasta 27 — 6 dilim ]
+    27_slice0003.png           Beyin Yenme:   0.65%  Beyin Alan:  1.24%  Tiraslama: 0.008%
+    27_slice0004.png           Beyin Yenme:   0.71%  Beyin Alan:  2.20%  Tiraslama: 0.016%
+    27_slice0005.png           Beyin Yenme:   0.65%  Beyin Alan:  4.63%  Tiraslama: 0.030%
+    27_slice0006.png           Beyin Yenme:   0.71%  Beyin Alan:  6.21%  Tiraslama: 0.044%
+    27_slice0007.png           Beyin Yenme:   0.68%  Beyin Alan:  8.83%  Tiraslama: 0.060%
+    27_slice0029.png           Beyin Yenme:   0.70%  Beyin Alan:  0.93%  Tiraslama: 0.006%
+
+  [ Hasta 28 — 8 dilim ]
+    28_slice0005.png           Beyin Yenme:   1.16%  Beyin Alan:  1.67%  Tiraslama: 0.019%
+    28_slice0006.png           Beyin Yenme:   0.78%  Beyin Alan:  4.28%  Tiraslama: 0.034%
+    28_slice0007.png           Beyin Yenme:   1.30%  Beyin Alan:  8.15%  Tiraslama: 0.106%
+    28_slice0008.png           Beyin Yenme:   0.77%  Beyin Alan: 11.51%  Tiraslama: 0.088%
+    28_slice0009.png           Beyin Yenme:   0.69%  Beyin Alan: 14.02%  Tiraslama: 0.097%
+    28_slice0010.png           Beyin Yenme:   0.72%  Beyin Alan: 16.60%  Tiraslama: 0.120%
+    28_slice0021.png           Beyin Yenme:   0.54%  Beyin Alan: 27.85%  Tiraslama: 0.151%
+    28_slice0029.png           Beyin Yenme:   0.68%  Beyin Alan:  5.52%  Tiraslama: 0.038%
+
+  [ Hasta 29 — 6 dilim ]
+    29_slice0001.png           Beyin Yenme:   1.04%  Beyin Alan:  0.95%  Tiraslama: 0.010%
+    29_slice0002.png           Beyin Yenme:   1.23%  Beyin Alan:  5.60%  Tiraslama: 0.069%
+    29_slice0003.png           Beyin Yenme:   0.62%  Beyin Alan:  7.81%  Tiraslama: 0.048%
+    29_slice0004.png           Beyin Yenme:   0.75%  Beyin Alan: 10.06%  Tiraslama: 0.075%
+    29_slice0005.png           Beyin Yenme:   0.51%  Beyin Alan: 11.68%  Tiraslama: 0.060%
+    29_slice0021.png           Beyin Yenme:   0.75%  Beyin Alan: 24.78%  Tiraslama: 0.187%
+
+  [ Hasta 31 — 2 dilim ]
+    31_slice0003.png           Beyin Yenme:   0.64%  Beyin Alan:  1.42%  Tiraslama: 0.009%
+    31_slice0065.png           Beyin Yenme:   0.58%  Beyin Alan:  5.69%  Tiraslama: 0.033%
+
+  [ Hasta 32 — 5 dilim ]
+    32_slice0009.png           Beyin Yenme:   1.56%  Beyin Alan:  1.81%  Tiraslama: 0.028%
+    32_slice0015.png           Beyin Yenme:   0.63%  Beyin Alan: 17.34%  Tiraslama: 0.110%
+    32_slice0021.png           Beyin Yenme:   2.55%  Beyin Alan: 30.10%  Tiraslama: 0.769%
+    32_slice0022.png           Beyin Yenme:   1.65%  Beyin Alan: 29.77%  Tiraslama: 0.490%
+    32_slice0023.png           Beyin Yenme:   2.63%  Beyin Alan: 29.48%  Tiraslama: 0.775%
+
+  [ Hasta 33 — 2 dilim ]
+    33_slice0006.png           Beyin Yenme:   0.69%  Beyin Alan:  0.83%  Tiraslama: 0.006%
+    33_slice0007.png           Beyin Yenme:   0.65%  Beyin Alan:  6.01%  Tiraslama: 0.039%
+
+  [ Hasta 35 — 12 dilim ]
+    35_slice0011.png           Beyin Yenme:   0.87%  Beyin Alan: 15.73%  Tiraslama: 0.137%
+    35_slice0015.png           Beyin Yenme:   1.65%  Beyin Alan: 27.05%  Tiraslama: 0.446%
+    35_slice0017.png           Beyin Yenme:   2.09%  Beyin Alan: 30.48%  Tiraslama: 0.636%
+    35_slice0018.png           Beyin Yenme:   1.28%  Beyin Alan: 31.04%  Tiraslama: 0.398%
+    35_slice0019.png           Beyin Yenme:   0.79%  Beyin Alan: 31.04%  Tiraslama: 0.246%
+    35_slice0020.png           Beyin Yenme:   0.52%  Beyin Alan: 30.78%  Tiraslama: 0.160%
+    35_slice0021.png           Beyin Yenme:   1.69%  Beyin Alan: 30.80%  Tiraslama: 0.521%
+    35_slice0022.png           Beyin Yenme:   2.04%  Beyin Alan: 30.21%  Tiraslama: 0.616%
+    35_slice0023.png           Beyin Yenme:   2.40%  Beyin Alan: 29.52%  Tiraslama: 0.708%
+    35_slice0024.png           Beyin Yenme:   2.65%  Beyin Alan: 28.52%  Tiraslama: 0.756%
+    35_slice0025.png           Beyin Yenme:   2.26%  Beyin Alan: 27.28%  Tiraslama: 0.617%
+    35_slice0027.png           Beyin Yenme:   0.61%  Beyin Alan: 23.67%  Tiraslama: 0.145%
+
+----------------------------------------------------------------------
+  ✅ TIRAŞLAMA YOK  —  843 dilim
+----------------------------------------------------------------------
+  [ Hasta 01 — 33 dilim ]
+    01_slice0023.png           Beyin Yenme:   0.45%  Beyin Alan: 17.72%  Tiraslama: 0.079%
+    01_slice0024.png           Beyin Yenme:   0.47%  Beyin Alan: 18.89%  Tiraslama: 0.089%
+    01_slice0026.png           Beyin Yenme:   0.42%  Beyin Alan: 22.26%  Tiraslama: 0.094%
+    01_slice0029.png           Beyin Yenme:   0.45%  Beyin Alan: 24.18%  Tiraslama: 0.108%
+    01_slice0030.png           Beyin Yenme:   0.45%  Beyin Alan: 24.57%  Tiraslama: 0.110%
+    01_slice0031.png           Beyin Yenme:   0.43%  Beyin Alan: 25.34%  Tiraslama: 0.109%
+    01_slice0032.png           Beyin Yenme:   0.42%  Beyin Alan: 25.96%  Tiraslama: 0.109%
+    01_slice0033.png           Beyin Yenme:   0.43%  Beyin Alan: 26.51%  Tiraslama: 0.113%
+    01_slice0034.png           Beyin Yenme:   0.37%  Beyin Alan: 27.05%  Tiraslama: 0.101%
+    01_slice0035.png           Beyin Yenme:   0.41%  Beyin Alan: 27.45%  Tiraslama: 0.114%
+    01_slice0036.png           Beyin Yenme:   0.37%  Beyin Alan: 27.76%  Tiraslama: 0.102%
+    01_slice0037.png           Beyin Yenme:   0.37%  Beyin Alan: 28.09%  Tiraslama: 0.104%
+    01_slice0038.png           Beyin Yenme:   0.32%  Beyin Alan: 28.28%  Tiraslama: 0.090%
+    01_slice0039.png           Beyin Yenme:   0.30%  Beyin Alan: 28.32%  Tiraslama: 0.084%
+    01_slice0040.png           Beyin Yenme:   0.34%  Beyin Alan: 28.43%  Tiraslama: 0.095%
+    01_slice0041.png           Beyin Yenme:   0.34%  Beyin Alan: 28.32%  Tiraslama: 0.095%
+    01_slice0042.png           Beyin Yenme:   0.28%  Beyin Alan: 27.89%  Tiraslama: 0.079%
+    01_slice0043.png           Beyin Yenme:   0.24%  Beyin Alan: 27.38%  Tiraslama: 0.065%
+    01_slice0044.png           Beyin Yenme:   0.23%  Beyin Alan: 26.76%  Tiraslama: 0.061%
+    01_slice0045.png           Beyin Yenme:   0.29%  Beyin Alan: 26.10%  Tiraslama: 0.075%
+    01_slice0046.png           Beyin Yenme:   0.21%  Beyin Alan: 25.33%  Tiraslama: 0.054%
+    01_slice0047.png           Beyin Yenme:   0.28%  Beyin Alan: 24.16%  Tiraslama: 0.067%
+    01_slice0048.png           Beyin Yenme:   0.20%  Beyin Alan: 22.80%  Tiraslama: 0.045%
+    01_slice0049.png           Beyin Yenme:   0.16%  Beyin Alan: 21.28%  Tiraslama: 0.034%
+    01_slice0050.png           Beyin Yenme:   0.17%  Beyin Alan: 19.73%  Tiraslama: 0.033%
+    01_slice0051.png           Beyin Yenme:   0.23%  Beyin Alan: 18.16%  Tiraslama: 0.042%
+    01_slice0052.png           Beyin Yenme:   0.11%  Beyin Alan: 16.31%  Tiraslama: 0.017%
+    01_slice0053.png           Beyin Yenme:   0.17%  Beyin Alan: 14.35%  Tiraslama: 0.024%
+    01_slice0054.png           Beyin Yenme:   0.16%  Beyin Alan: 12.28%  Tiraslama: 0.019%
+    01_slice0055.png           Beyin Yenme:   0.40%  Beyin Alan: 10.30%  Tiraslama: 0.041%
+    01_slice0056.png           Beyin Yenme:   0.46%  Beyin Alan:  8.30%  Tiraslama: 0.038%
+    01_slice0058.png           Beyin Yenme:   0.16%  Beyin Alan:  3.40%  Tiraslama: 0.005%
+    01_slice0059.png           Beyin Yenme:   0.27%  Beyin Alan:  0.57%  Tiraslama: 0.002%
+
+  [ Hasta 02 — 33 dilim ]
+    02_slice0006.png           Beyin Yenme:   0.07%  Beyin Alan:  2.27%  Tiraslama: 0.002%
+    02_slice0010.png           Beyin Yenme:   0.21%  Beyin Alan: 11.34%  Tiraslama: 0.023%
+    02_slice0013.png           Beyin Yenme:   0.32%  Beyin Alan: 16.54%  Tiraslama: 0.052%
+    02_slice0014.png           Beyin Yenme:   0.39%  Beyin Alan: 19.05%  Tiraslama: 0.074%
+    02_slice0016.png           Beyin Yenme:   0.44%  Beyin Alan: 21.28%  Tiraslama: 0.095%
+    02_slice0017.png           Beyin Yenme:   0.28%  Beyin Alan: 24.22%  Tiraslama: 0.067%
+    02_slice0019.png           Beyin Yenme:   0.17%  Beyin Alan: 27.48%  Tiraslama: 0.046%
+    02_slice0020.png           Beyin Yenme:   0.22%  Beyin Alan: 29.43%  Tiraslama: 0.064%
+    02_slice0023.png           Beyin Yenme:   0.26%  Beyin Alan: 30.58%  Tiraslama: 0.080%
+    02_slice0024.png           Beyin Yenme:   0.20%  Beyin Alan: 30.76%  Tiraslama: 0.063%
+    02_slice0026.png           Beyin Yenme:   0.30%  Beyin Alan: 30.83%  Tiraslama: 0.093%
+    02_slice0027.png           Beyin Yenme:   0.27%  Beyin Alan: 30.95%  Tiraslama: 0.084%
+    02_slice0028.png           Beyin Yenme:   0.45%  Beyin Alan: 31.11%  Tiraslama: 0.141%
+    02_slice0029.png           Beyin Yenme:   0.41%  Beyin Alan: 30.95%  Tiraslama: 0.126%
+    02_slice0039.png           Beyin Yenme:   0.18%  Beyin Alan: 30.47%  Tiraslama: 0.055%
+    02_slice0040.png           Beyin Yenme:   0.20%  Beyin Alan: 30.47%  Tiraslama: 0.061%
+    02_slice0042.png           Beyin Yenme:   0.04%  Beyin Alan: 29.28%  Tiraslama: 0.010%
+    02_slice0043.png           Beyin Yenme:   0.12%  Beyin Alan: 29.28%  Tiraslama: 0.034%
+    02_slice0045.png           Beyin Yenme:   0.03%  Beyin Alan: 27.79%  Tiraslama: 0.008%
+    02_slice0046.png           Beyin Yenme:   0.17%  Beyin Alan: 27.79%  Tiraslama: 0.048%
+    02_slice0048.png           Beyin Yenme:   0.05%  Beyin Alan: 26.08%  Tiraslama: 0.013%
+    02_slice0049.png           Beyin Yenme:   0.45%  Beyin Alan: 26.08%  Tiraslama: 0.118%
+    02_slice0051.png           Beyin Yenme:   0.05%  Beyin Alan: 23.91%  Tiraslama: 0.011%
+    02_slice0054.png           Beyin Yenme:   0.05%  Beyin Alan: 21.60%  Tiraslama: 0.010%
+    02_slice0057.png           Beyin Yenme:   0.10%  Beyin Alan: 18.73%  Tiraslama: 0.019%
+    02_slice0060.png           Beyin Yenme:   0.09%  Beyin Alan: 15.42%  Tiraslama: 0.013%
+    02_slice0062.png           Beyin Yenme:   0.02%  Beyin Alan: 11.43%  Tiraslama: 0.002%
+    02_slice0063.png           Beyin Yenme:   0.14%  Beyin Alan: 11.43%  Tiraslama: 0.016%
+    02_slice0065.png           Beyin Yenme:   0.04%  Beyin Alan:  7.64%  Tiraslama: 0.003%
+    02_slice0066.png           Beyin Yenme:   0.21%  Beyin Alan:  7.64%  Tiraslama: 0.016%
+    02_slice0068.png           Beyin Yenme:   0.07%  Beyin Alan:  4.23%  Tiraslama: 0.003%
+    02_slice0069.png           Beyin Yenme:   0.24%  Beyin Alan:  4.23%  Tiraslama: 0.010%
+    02_slice0071.png           Beyin Yenme:   0.16%  Beyin Alan:  0.24%  Tiraslama: 0.000%
+
+  [ Hasta 03 — 28 dilim ]
+    03_slice0011.png           Beyin Yenme:   0.37%  Beyin Alan:  9.09%  Tiraslama: 0.034%
+    03_slice0017.png           Beyin Yenme:   0.26%  Beyin Alan: 17.74%  Tiraslama: 0.046%
+    03_slice0018.png           Beyin Yenme:   0.30%  Beyin Alan: 19.33%  Tiraslama: 0.058%
+    03_slice0019.png           Beyin Yenme:   0.32%  Beyin Alan: 21.34%  Tiraslama: 0.069%
+    03_slice0021.png           Beyin Yenme:   0.11%  Beyin Alan: 22.57%  Tiraslama: 0.026%
+    03_slice0022.png           Beyin Yenme:   0.24%  Beyin Alan: 23.55%  Tiraslama: 0.057%
+    03_slice0024.png           Beyin Yenme:   0.14%  Beyin Alan: 24.27%  Tiraslama: 0.033%
+    03_slice0025.png           Beyin Yenme:   0.27%  Beyin Alan: 24.79%  Tiraslama: 0.068%
+    03_slice0026.png           Beyin Yenme:   0.24%  Beyin Alan: 25.07%  Tiraslama: 0.060%
+    03_slice0028.png           Beyin Yenme:   0.42%  Beyin Alan: 25.18%  Tiraslama: 0.106%
+    03_slice0033.png           Beyin Yenme:   0.32%  Beyin Alan: 25.72%  Tiraslama: 0.081%
+    03_slice0040.png           Beyin Yenme:   0.45%  Beyin Alan: 25.27%  Tiraslama: 0.115%
+    03_slice0041.png           Beyin Yenme:   0.38%  Beyin Alan: 25.27%  Tiraslama: 0.095%
+    03_slice0043.png           Beyin Yenme:   0.26%  Beyin Alan: 24.62%  Tiraslama: 0.064%
+    03_slice0044.png           Beyin Yenme:   0.22%  Beyin Alan: 24.62%  Tiraslama: 0.055%
+    03_slice0046.png           Beyin Yenme:   0.17%  Beyin Alan: 23.75%  Tiraslama: 0.041%
+    03_slice0049.png           Beyin Yenme:   0.09%  Beyin Alan: 22.40%  Tiraslama: 0.021%
+    03_slice0051.png           Beyin Yenme:   0.02%  Beyin Alan: 20.93%  Tiraslama: 0.004%
+    03_slice0052.png           Beyin Yenme:   0.13%  Beyin Alan: 20.93%  Tiraslama: 0.027%
+    03_slice0054.png           Beyin Yenme:   0.16%  Beyin Alan: 19.18%  Tiraslama: 0.030%
+    03_slice0055.png           Beyin Yenme:   0.41%  Beyin Alan: 19.18%  Tiraslama: 0.079%
+    03_slice0057.png           Beyin Yenme:   0.06%  Beyin Alan: 16.97%  Tiraslama: 0.010%
+    03_slice0060.png           Beyin Yenme:   0.15%  Beyin Alan: 14.15%  Tiraslama: 0.021%
+    03_slice0063.png           Beyin Yenme:   0.19%  Beyin Alan: 11.26%  Tiraslama: 0.021%
+    03_slice0065.png           Beyin Yenme:   0.09%  Beyin Alan:  8.31%  Tiraslama: 0.008%
+    03_slice0066.png           Beyin Yenme:   0.36%  Beyin Alan:  8.31%  Tiraslama: 0.030%
+    03_slice0068.png           Beyin Yenme:   0.01%  Beyin Alan:  5.54%  Tiraslama: 0.001%
+    03_slice0071.png           Beyin Yenme:   0.12%  Beyin Alan:  2.47%  Tiraslama: 0.003%
+
+  [ Hasta 04 — 53 dilim ]
+    04_slice0002.png           Beyin Yenme:   0.29%  Beyin Alan:  1.30%  Tiraslama: 0.004%
+    04_slice0003.png           Beyin Yenme:   0.17%  Beyin Alan:  3.11%  Tiraslama: 0.005%
+    04_slice0004.png           Beyin Yenme:   0.38%  Beyin Alan:  3.68%  Tiraslama: 0.014%
+    04_slice0005.png           Beyin Yenme:   0.37%  Beyin Alan:  4.33%  Tiraslama: 0.016%
+    04_slice0006.png           Beyin Yenme:   0.49%  Beyin Alan:  5.18%  Tiraslama: 0.025%
+    04_slice0007.png           Beyin Yenme:   0.42%  Beyin Alan:  5.91%  Tiraslama: 0.025%
+    04_slice0008.png           Beyin Yenme:   0.31%  Beyin Alan:  6.60%  Tiraslama: 0.020%
+    04_slice0011.png           Beyin Yenme:   0.17%  Beyin Alan: 10.31%  Tiraslama: 0.018%
+    04_slice0012.png           Beyin Yenme:   0.35%  Beyin Alan: 11.71%  Tiraslama: 0.041%
+    04_slice0013.png           Beyin Yenme:   0.41%  Beyin Alan: 13.42%  Tiraslama: 0.055%
+    04_slice0014.png           Beyin Yenme:   0.33%  Beyin Alan: 14.85%  Tiraslama: 0.049%
+    04_slice0015.png           Beyin Yenme:   0.20%  Beyin Alan: 15.90%  Tiraslama: 0.032%
+    04_slice0016.png           Beyin Yenme:   0.24%  Beyin Alan: 17.11%  Tiraslama: 0.042%
+    04_slice0017.png           Beyin Yenme:   0.15%  Beyin Alan: 17.73%  Tiraslama: 0.026%
+    04_slice0018.png           Beyin Yenme:   0.23%  Beyin Alan: 18.51%  Tiraslama: 0.043%
+    04_slice0019.png           Beyin Yenme:   0.27%  Beyin Alan: 19.34%  Tiraslama: 0.053%
+    04_slice0020.png           Beyin Yenme:   0.15%  Beyin Alan: 20.07%  Tiraslama: 0.030%
+    04_slice0021.png           Beyin Yenme:   0.23%  Beyin Alan: 20.81%  Tiraslama: 0.047%
+    04_slice0022.png           Beyin Yenme:   0.16%  Beyin Alan: 21.86%  Tiraslama: 0.035%
+    04_slice0023.png           Beyin Yenme:   0.21%  Beyin Alan: 23.24%  Tiraslama: 0.048%
+    04_slice0024.png           Beyin Yenme:   0.24%  Beyin Alan: 24.14%  Tiraslama: 0.057%
+    04_slice0025.png           Beyin Yenme:   0.35%  Beyin Alan: 25.28%  Tiraslama: 0.088%
+    04_slice0026.png           Beyin Yenme:   0.16%  Beyin Alan: 26.09%  Tiraslama: 0.041%
+    04_slice0027.png           Beyin Yenme:   0.18%  Beyin Alan: 26.91%  Tiraslama: 0.048%
+    04_slice0028.png           Beyin Yenme:   0.19%  Beyin Alan: 27.44%  Tiraslama: 0.052%
+    04_slice0029.png           Beyin Yenme:   0.19%  Beyin Alan: 27.72%  Tiraslama: 0.053%
+    04_slice0030.png           Beyin Yenme:   0.17%  Beyin Alan: 28.12%  Tiraslama: 0.049%
+    04_slice0031.png           Beyin Yenme:   0.25%  Beyin Alan: 28.28%  Tiraslama: 0.071%
+    04_slice0032.png           Beyin Yenme:   0.15%  Beyin Alan: 28.44%  Tiraslama: 0.042%
+    04_slice0033.png           Beyin Yenme:   0.20%  Beyin Alan: 28.41%  Tiraslama: 0.057%
+    04_slice0034.png           Beyin Yenme:   0.24%  Beyin Alan: 28.37%  Tiraslama: 0.068%
+    04_slice0035.png           Beyin Yenme:   0.25%  Beyin Alan: 28.47%  Tiraslama: 0.070%
+    04_slice0036.png           Beyin Yenme:   0.23%  Beyin Alan: 28.39%  Tiraslama: 0.064%
+    04_slice0037.png           Beyin Yenme:   0.16%  Beyin Alan: 27.97%  Tiraslama: 0.044%
+    04_slice0038.png           Beyin Yenme:   0.17%  Beyin Alan: 27.50%  Tiraslama: 0.048%
+    04_slice0039.png           Beyin Yenme:   0.20%  Beyin Alan: 26.91%  Tiraslama: 0.054%
+    04_slice0040.png           Beyin Yenme:   0.18%  Beyin Alan: 26.21%  Tiraslama: 0.046%
+    04_slice0041.png           Beyin Yenme:   0.29%  Beyin Alan: 25.43%  Tiraslama: 0.075%
+    04_slice0042.png           Beyin Yenme:   0.14%  Beyin Alan: 24.41%  Tiraslama: 0.034%
+    04_slice0043.png           Beyin Yenme:   0.17%  Beyin Alan: 23.34%  Tiraslama: 0.040%
+    04_slice0044.png           Beyin Yenme:   0.19%  Beyin Alan: 22.27%  Tiraslama: 0.043%
+    04_slice0045.png           Beyin Yenme:   0.29%  Beyin Alan: 21.02%  Tiraslama: 0.061%
+    04_slice0046.png           Beyin Yenme:   0.13%  Beyin Alan: 19.53%  Tiraslama: 0.025%
+    04_slice0047.png           Beyin Yenme:   0.23%  Beyin Alan: 18.09%  Tiraslama: 0.041%
+    04_slice0048.png           Beyin Yenme:   0.18%  Beyin Alan: 16.67%  Tiraslama: 0.030%
+    04_slice0049.png           Beyin Yenme:   0.16%  Beyin Alan: 15.29%  Tiraslama: 0.025%
+    04_slice0050.png           Beyin Yenme:   0.20%  Beyin Alan: 13.70%  Tiraslama: 0.027%
+    04_slice0051.png           Beyin Yenme:   0.12%  Beyin Alan: 11.91%  Tiraslama: 0.014%
+    04_slice0052.png           Beyin Yenme:   0.21%  Beyin Alan: 10.24%  Tiraslama: 0.021%
+    04_slice0053.png           Beyin Yenme:   0.32%  Beyin Alan:  8.70%  Tiraslama: 0.028%
+    04_slice0054.png           Beyin Yenme:   0.25%  Beyin Alan:  6.77%  Tiraslama: 0.017%
+    04_slice0055.png           Beyin Yenme:   0.01%  Beyin Alan:  4.23%  Tiraslama: 0.000%
+    04_slice0056.png           Beyin Yenme:   0.14%  Beyin Alan:  2.18%  Tiraslama: 0.003%
+
+  [ Hasta 05 — 30 dilim ]
+    05_slice0008.png           Beyin Yenme:   0.16%  Beyin Alan:  4.13%  Tiraslama: 0.006%
+    05_slice0011.png           Beyin Yenme:   0.17%  Beyin Alan:  7.93%  Tiraslama: 0.013%
+    05_slice0012.png           Beyin Yenme:   0.34%  Beyin Alan:  9.13%  Tiraslama: 0.031%
+    05_slice0015.png           Beyin Yenme:   0.29%  Beyin Alan: 14.21%  Tiraslama: 0.042%
+    05_slice0016.png           Beyin Yenme:   0.35%  Beyin Alan: 15.87%  Tiraslama: 0.055%
+    05_slice0018.png           Beyin Yenme:   0.44%  Beyin Alan: 18.93%  Tiraslama: 0.084%
+    05_slice0019.png           Beyin Yenme:   0.46%  Beyin Alan: 18.93%  Tiraslama: 0.088%
+    05_slice0021.png           Beyin Yenme:   0.34%  Beyin Alan: 21.49%  Tiraslama: 0.074%
+    05_slice0023.png           Beyin Yenme:   0.27%  Beyin Alan: 25.47%  Tiraslama: 0.068%
+    05_slice0025.png           Beyin Yenme:   0.13%  Beyin Alan: 30.30%  Tiraslama: 0.040%
+    05_slice0027.png           Beyin Yenme:   0.31%  Beyin Alan: 33.34%  Tiraslama: 0.102%
+    05_slice0029.png           Beyin Yenme:   0.31%  Beyin Alan: 35.00%  Tiraslama: 0.107%
+    05_slice0031.png           Beyin Yenme:   0.28%  Beyin Alan: 35.86%  Tiraslama: 0.102%
+    05_slice0033.png           Beyin Yenme:   0.15%  Beyin Alan: 36.05%  Tiraslama: 0.055%
+    05_slice0035.png           Beyin Yenme:   0.23%  Beyin Alan: 35.83%  Tiraslama: 0.083%
+    05_slice0037.png           Beyin Yenme:   0.19%  Beyin Alan: 35.42%  Tiraslama: 0.068%
+    05_slice0039.png           Beyin Yenme:   0.11%  Beyin Alan: 34.78%  Tiraslama: 0.039%
+    05_slice0041.png           Beyin Yenme:   0.13%  Beyin Alan: 33.79%  Tiraslama: 0.045%
+    05_slice0043.png           Beyin Yenme:   0.06%  Beyin Alan: 31.65%  Tiraslama: 0.019%
+    05_slice0045.png           Beyin Yenme:   0.13%  Beyin Alan: 29.61%  Tiraslama: 0.038%
+    05_slice0047.png           Beyin Yenme:   0.04%  Beyin Alan: 26.78%  Tiraslama: 0.011%
+    05_slice0048.png           Beyin Yenme:   0.29%  Beyin Alan: 26.78%  Tiraslama: 0.078%
+    05_slice0050.png           Beyin Yenme:   0.22%  Beyin Alan: 23.72%  Tiraslama: 0.051%
+    05_slice0052.png           Beyin Yenme:   0.11%  Beyin Alan: 19.73%  Tiraslama: 0.022%
+    05_slice0054.png           Beyin Yenme:   0.09%  Beyin Alan: 15.65%  Tiraslama: 0.013%
+    05_slice0056.png           Beyin Yenme:   0.08%  Beyin Alan: 11.45%  Tiraslama: 0.009%
+    05_slice0058.png           Beyin Yenme:   0.09%  Beyin Alan:  7.77%  Tiraslama: 0.007%
+    05_slice0060.png           Beyin Yenme:   0.03%  Beyin Alan:  4.57%  Tiraslama: 0.001%
+    05_slice0062.png           Beyin Yenme:   0.00%  Beyin Alan:  1.14%  Tiraslama: 0.000%
+    05_slice0063.png           Beyin Yenme:   0.37%  Beyin Alan:  1.14%  Tiraslama: 0.004%
+
+  [ Hasta 06 — 37 dilim ]
+    06_slice0006.png           Beyin Yenme:   0.42%  Beyin Alan:  3.80%  Tiraslama: 0.016%
+    06_slice0007.png           Beyin Yenme:   0.30%  Beyin Alan:  4.75%  Tiraslama: 0.015%
+    06_slice0012.png           Beyin Yenme:   0.50%  Beyin Alan:  8.54%  Tiraslama: 0.042%
+    06_slice0016.png           Beyin Yenme:   0.39%  Beyin Alan: 13.21%  Tiraslama: 0.051%
+    06_slice0017.png           Beyin Yenme:   0.39%  Beyin Alan: 14.86%  Tiraslama: 0.057%
+    06_slice0018.png           Beyin Yenme:   0.31%  Beyin Alan: 16.23%  Tiraslama: 0.051%
+    06_slice0019.png           Beyin Yenme:   0.34%  Beyin Alan: 17.43%  Tiraslama: 0.059%
+    06_slice0020.png           Beyin Yenme:   0.32%  Beyin Alan: 17.94%  Tiraslama: 0.057%
+    06_slice0021.png           Beyin Yenme:   0.35%  Beyin Alan: 18.46%  Tiraslama: 0.065%
+    06_slice0022.png           Beyin Yenme:   0.30%  Beyin Alan: 18.50%  Tiraslama: 0.055%
+    06_slice0023.png           Beyin Yenme:   0.25%  Beyin Alan: 18.66%  Tiraslama: 0.047%
+    06_slice0024.png           Beyin Yenme:   0.39%  Beyin Alan: 19.06%  Tiraslama: 0.075%
+    06_slice0025.png           Beyin Yenme:   0.29%  Beyin Alan: 19.81%  Tiraslama: 0.058%
+    06_slice0026.png           Beyin Yenme:   0.43%  Beyin Alan: 20.19%  Tiraslama: 0.087%
+    06_slice0027.png           Beyin Yenme:   0.26%  Beyin Alan: 20.69%  Tiraslama: 0.055%
+    06_slice0028.png           Beyin Yenme:   0.29%  Beyin Alan: 21.24%  Tiraslama: 0.062%
+    06_slice0029.png           Beyin Yenme:   0.31%  Beyin Alan: 21.84%  Tiraslama: 0.067%
+    06_slice0030.png           Beyin Yenme:   0.34%  Beyin Alan: 22.45%  Tiraslama: 0.076%
+    06_slice0031.png           Beyin Yenme:   0.25%  Beyin Alan: 22.78%  Tiraslama: 0.056%
+    06_slice0032.png           Beyin Yenme:   0.33%  Beyin Alan: 22.85%  Tiraslama: 0.076%
+    06_slice0033.png           Beyin Yenme:   0.32%  Beyin Alan: 22.60%  Tiraslama: 0.072%
+    06_slice0034.png           Beyin Yenme:   0.36%  Beyin Alan: 22.30%  Tiraslama: 0.081%
+    06_slice0035.png           Beyin Yenme:   0.30%  Beyin Alan: 21.78%  Tiraslama: 0.065%
+    06_slice0036.png           Beyin Yenme:   0.27%  Beyin Alan: 21.15%  Tiraslama: 0.058%
+    06_slice0037.png           Beyin Yenme:   0.32%  Beyin Alan: 20.44%  Tiraslama: 0.065%
+    06_slice0038.png           Beyin Yenme:   0.46%  Beyin Alan: 19.59%  Tiraslama: 0.089%
+    06_slice0039.png           Beyin Yenme:   0.40%  Beyin Alan: 18.61%  Tiraslama: 0.074%
+    06_slice0040.png           Beyin Yenme:   0.39%  Beyin Alan: 17.51%  Tiraslama: 0.068%
+    06_slice0041.png           Beyin Yenme:   0.35%  Beyin Alan: 16.19%  Tiraslama: 0.057%
+    06_slice0042.png           Beyin Yenme:   0.25%  Beyin Alan: 14.69%  Tiraslama: 0.037%
+    06_slice0043.png           Beyin Yenme:   0.22%  Beyin Alan: 12.95%  Tiraslama: 0.028%
+    06_slice0044.png           Beyin Yenme:   0.31%  Beyin Alan: 11.20%  Tiraslama: 0.035%
+    06_slice0045.png           Beyin Yenme:   0.45%  Beyin Alan:  9.37%  Tiraslama: 0.042%
+    06_slice0046.png           Beyin Yenme:   0.39%  Beyin Alan:  7.48%  Tiraslama: 0.029%
+    06_slice0047.png           Beyin Yenme:   0.38%  Beyin Alan:  5.58%  Tiraslama: 0.021%
+    06_slice0048.png           Beyin Yenme:   0.11%  Beyin Alan:  3.53%  Tiraslama: 0.004%
+    06_slice0049.png           Beyin Yenme:   0.03%  Beyin Alan:  1.52%  Tiraslama: 0.000%
+
+  [ Hasta 07 — 30 dilim ]
+    07_slice0013.png           Beyin Yenme:   0.18%  Beyin Alan:  6.27%  Tiraslama: 0.011%
+    07_slice0015.png           Beyin Yenme:   0.23%  Beyin Alan:  9.99%  Tiraslama: 0.023%
+    07_slice0016.png           Beyin Yenme:   0.22%  Beyin Alan: 12.23%  Tiraslama: 0.027%
+    07_slice0021.png           Beyin Yenme:   0.05%  Beyin Alan: 21.56%  Tiraslama: 0.010%
+    07_slice0022.png           Beyin Yenme:   0.17%  Beyin Alan: 24.00%  Tiraslama: 0.042%
+    07_slice0023.png           Beyin Yenme:   0.26%  Beyin Alan: 26.33%  Tiraslama: 0.068%
+    07_slice0024.png           Beyin Yenme:   0.23%  Beyin Alan: 28.24%  Tiraslama: 0.065%
+    07_slice0025.png           Beyin Yenme:   0.27%  Beyin Alan: 28.86%  Tiraslama: 0.077%
+    07_slice0026.png           Beyin Yenme:   0.25%  Beyin Alan: 29.42%  Tiraslama: 0.075%
+    07_slice0027.png           Beyin Yenme:   0.29%  Beyin Alan: 29.95%  Tiraslama: 0.087%
+    07_slice0028.png           Beyin Yenme:   0.34%  Beyin Alan: 30.34%  Tiraslama: 0.104%
+    07_slice0029.png           Beyin Yenme:   0.41%  Beyin Alan: 30.59%  Tiraslama: 0.124%
+    07_slice0030.png           Beyin Yenme:   0.49%  Beyin Alan: 30.69%  Tiraslama: 0.149%
+    07_slice0031.png           Beyin Yenme:   0.38%  Beyin Alan: 30.64%  Tiraslama: 0.117%
+    07_slice0032.png           Beyin Yenme:   0.30%  Beyin Alan: 30.43%  Tiraslama: 0.092%
+    07_slice0037.png           Beyin Yenme:   0.21%  Beyin Alan: 28.97%  Tiraslama: 0.060%
+    07_slice0038.png           Beyin Yenme:   0.34%  Beyin Alan: 28.49%  Tiraslama: 0.097%
+    07_slice0039.png           Beyin Yenme:   0.29%  Beyin Alan: 27.78%  Tiraslama: 0.079%
+    07_slice0040.png           Beyin Yenme:   0.16%  Beyin Alan: 26.96%  Tiraslama: 0.043%
+    07_slice0041.png           Beyin Yenme:   0.14%  Beyin Alan: 26.24%  Tiraslama: 0.037%
+    07_slice0042.png           Beyin Yenme:   0.11%  Beyin Alan: 25.31%  Tiraslama: 0.028%
+    07_slice0047.png           Beyin Yenme:   0.21%  Beyin Alan: 20.47%  Tiraslama: 0.043%
+    07_slice0048.png           Beyin Yenme:   0.10%  Beyin Alan: 19.07%  Tiraslama: 0.019%
+    07_slice0049.png           Beyin Yenme:   0.03%  Beyin Alan: 17.53%  Tiraslama: 0.005%
+    07_slice0050.png           Beyin Yenme:   0.11%  Beyin Alan: 15.96%  Tiraslama: 0.018%
+    07_slice0051.png           Beyin Yenme:   0.02%  Beyin Alan: 14.34%  Tiraslama: 0.003%
+    07_slice0052.png           Beyin Yenme:   0.00%  Beyin Alan: 12.38%  Tiraslama: 0.000%
+    07_slice0053.png           Beyin Yenme:   0.00%  Beyin Alan: 10.51%  Tiraslama: 0.000%
+    07_slice0054.png           Beyin Yenme:   0.00%  Beyin Alan:  8.64%  Tiraslama: 0.000%
+    07_slice0056.png           Beyin Yenme:   0.05%  Beyin Alan:  6.51%  Tiraslama: 0.003%
+
+  [ Hasta 08 — 13 dilim ]
+    08_slice0018.png           Beyin Yenme:   0.43%  Beyin Alan: 14.36%  Tiraslama: 0.062%
+    08_slice0028.png           Beyin Yenme:   0.49%  Beyin Alan: 24.84%  Tiraslama: 0.121%
+    08_slice0030.png           Beyin Yenme:   0.42%  Beyin Alan: 27.79%  Tiraslama: 0.117%
+    08_slice0041.png           Beyin Yenme:   0.34%  Beyin Alan: 32.06%  Tiraslama: 0.110%
+    08_slice0043.png           Beyin Yenme:   0.25%  Beyin Alan: 30.20%  Tiraslama: 0.077%
+    08_slice0045.png           Beyin Yenme:   0.19%  Beyin Alan: 28.09%  Tiraslama: 0.055%
+    08_slice0047.png           Beyin Yenme:   0.14%  Beyin Alan: 25.46%  Tiraslama: 0.035%
+    08_slice0049.png           Beyin Yenme:   0.32%  Beyin Alan: 22.41%  Tiraslama: 0.072%
+    08_slice0051.png           Beyin Yenme:   0.27%  Beyin Alan: 18.95%  Tiraslama: 0.051%
+    08_slice0053.png           Beyin Yenme:   0.08%  Beyin Alan: 15.16%  Tiraslama: 0.013%
+    08_slice0055.png           Beyin Yenme:   0.12%  Beyin Alan: 11.06%  Tiraslama: 0.014%
+    08_slice0057.png           Beyin Yenme:   0.09%  Beyin Alan:  6.58%  Tiraslama: 0.006%
+    08_slice0059.png           Beyin Yenme:   0.00%  Beyin Alan:  1.76%  Tiraslama: 0.000%
+
+  [ Hasta 09 — 16 dilim ]
+    09_slice0006.png           Beyin Yenme:   0.16%  Beyin Alan:  2.11%  Tiraslama: 0.003%
+    09_slice0008.png           Beyin Yenme:   0.16%  Beyin Alan:  4.34%  Tiraslama: 0.007%
+    09_slice0012.png           Beyin Yenme:   0.45%  Beyin Alan:  7.47%  Tiraslama: 0.034%
+    09_slice0014.png           Beyin Yenme:   0.33%  Beyin Alan:  9.00%  Tiraslama: 0.030%
+    09_slice0018.png           Beyin Yenme:   0.28%  Beyin Alan: 14.27%  Tiraslama: 0.040%
+    09_slice0021.png           Beyin Yenme:   0.47%  Beyin Alan: 16.29%  Tiraslama: 0.076%
+    09_slice0023.png           Beyin Yenme:   0.30%  Beyin Alan: 18.58%  Tiraslama: 0.055%
+    09_slice0034.png           Beyin Yenme:   0.22%  Beyin Alan: 20.84%  Tiraslama: 0.046%
+    09_slice0036.png           Beyin Yenme:   0.07%  Beyin Alan: 19.56%  Tiraslama: 0.013%
+    09_slice0038.png           Beyin Yenme:   0.06%  Beyin Alan: 17.91%  Tiraslama: 0.010%
+    09_slice0041.png           Beyin Yenme:   0.10%  Beyin Alan: 15.60%  Tiraslama: 0.015%
+    09_slice0043.png           Beyin Yenme:   0.02%  Beyin Alan: 12.69%  Tiraslama: 0.002%
+    09_slice0045.png           Beyin Yenme:   0.01%  Beyin Alan:  9.55%  Tiraslama: 0.001%
+    09_slice0048.png           Beyin Yenme:   0.29%  Beyin Alan:  6.17%  Tiraslama: 0.018%
+    09_slice0050.png           Beyin Yenme:   0.00%  Beyin Alan:  3.00%  Tiraslama: 0.000%
+    09_slice0052.png           Beyin Yenme:   0.16%  Beyin Alan:  0.47%  Tiraslama: 0.001%
+
+  [ Hasta 10 — 19 dilim ]
+    10_slice0018.png           Beyin Yenme:   0.38%  Beyin Alan: 27.03%  Tiraslama: 0.103%
+    10_slice0019.png           Beyin Yenme:   0.42%  Beyin Alan: 27.46%  Tiraslama: 0.114%
+    10_slice0020.png           Beyin Yenme:   0.27%  Beyin Alan: 27.77%  Tiraslama: 0.076%
+    10_slice0022.png           Beyin Yenme:   0.34%  Beyin Alan: 28.44%  Tiraslama: 0.096%
+    10_slice0023.png           Beyin Yenme:   0.27%  Beyin Alan: 28.73%  Tiraslama: 0.078%
+    10_slice0024.png           Beyin Yenme:   0.44%  Beyin Alan: 29.08%  Tiraslama: 0.127%
+    10_slice0027.png           Beyin Yenme:   0.23%  Beyin Alan: 28.81%  Tiraslama: 0.067%
+    10_slice0029.png           Beyin Yenme:   0.16%  Beyin Alan: 27.33%  Tiraslama: 0.045%
+    10_slice0030.png           Beyin Yenme:   0.38%  Beyin Alan: 27.33%  Tiraslama: 0.104%
+    10_slice0032.png           Beyin Yenme:   0.07%  Beyin Alan: 24.50%  Tiraslama: 0.017%
+    10_slice0033.png           Beyin Yenme:   0.25%  Beyin Alan: 24.50%  Tiraslama: 0.060%
+    10_slice0035.png           Beyin Yenme:   0.03%  Beyin Alan: 20.73%  Tiraslama: 0.007%
+    10_slice0036.png           Beyin Yenme:   0.36%  Beyin Alan: 20.73%  Tiraslama: 0.074%
+    10_slice0038.png           Beyin Yenme:   0.08%  Beyin Alan: 16.42%  Tiraslama: 0.013%
+    10_slice0039.png           Beyin Yenme:   0.30%  Beyin Alan: 16.42%  Tiraslama: 0.050%
+    10_slice0041.png           Beyin Yenme:   0.02%  Beyin Alan: 11.62%  Tiraslama: 0.002%
+    10_slice0042.png           Beyin Yenme:   0.21%  Beyin Alan: 11.62%  Tiraslama: 0.024%
+    10_slice0044.png           Beyin Yenme:   0.08%  Beyin Alan:  6.79%  Tiraslama: 0.005%
+    10_slice0047.png           Beyin Yenme:   0.02%  Beyin Alan:  1.61%  Tiraslama: 0.000%
+
+  [ Hasta 11 — 14 dilim ]
+    11_slice0030.png           Beyin Yenme:   0.35%  Beyin Alan: 30.54%  Tiraslama: 0.107%
+    11_slice0035.png           Beyin Yenme:   0.32%  Beyin Alan: 29.10%  Tiraslama: 0.093%
+    11_slice0038.png           Beyin Yenme:   0.38%  Beyin Alan: 27.57%  Tiraslama: 0.106%
+    11_slice0039.png           Beyin Yenme:   0.50%  Beyin Alan: 27.57%  Tiraslama: 0.137%
+    11_slice0041.png           Beyin Yenme:   0.15%  Beyin Alan: 25.36%  Tiraslama: 0.037%
+    11_slice0044.png           Beyin Yenme:   0.23%  Beyin Alan: 22.37%  Tiraslama: 0.052%
+    11_slice0045.png           Beyin Yenme:   0.48%  Beyin Alan: 22.37%  Tiraslama: 0.108%
+    11_slice0047.png           Beyin Yenme:   0.08%  Beyin Alan: 18.08%  Tiraslama: 0.015%
+    11_slice0048.png           Beyin Yenme:   0.45%  Beyin Alan: 18.08%  Tiraslama: 0.081%
+    11_slice0050.png           Beyin Yenme:   0.11%  Beyin Alan: 13.31%  Tiraslama: 0.014%
+    11_slice0053.png           Beyin Yenme:   0.02%  Beyin Alan:  8.17%  Tiraslama: 0.002%
+    11_slice0054.png           Beyin Yenme:   0.32%  Beyin Alan:  8.17%  Tiraslama: 0.026%
+    11_slice0056.png           Beyin Yenme:   0.00%  Beyin Alan:  3.05%  Tiraslama: 0.000%
+    11_slice0057.png           Beyin Yenme:   0.19%  Beyin Alan:  3.05%  Tiraslama: 0.006%
+
+  [ Hasta 12 — 11 dilim ]
+    12_slice0007.png           Beyin Yenme:   0.00%  Beyin Alan:  0.29%  Tiraslama: 0.000%
+    12_slice0011.png           Beyin Yenme:   0.32%  Beyin Alan:  8.35%  Tiraslama: 0.026%
+    12_slice0015.png           Beyin Yenme:   0.50%  Beyin Alan: 14.02%  Tiraslama: 0.069%
+    12_slice0016.png           Beyin Yenme:   0.24%  Beyin Alan: 17.61%  Tiraslama: 0.043%
+    12_slice0017.png           Beyin Yenme:   0.33%  Beyin Alan: 21.05%  Tiraslama: 0.070%
+    12_slice0025.png           Beyin Yenme:   0.48%  Beyin Alan: 29.09%  Tiraslama: 0.140%
+    12_slice0033.png           Beyin Yenme:   0.34%  Beyin Alan: 21.27%  Tiraslama: 0.072%
+    12_slice0034.png           Beyin Yenme:   0.43%  Beyin Alan: 18.43%  Tiraslama: 0.080%
+    12_slice0035.png           Beyin Yenme:   0.40%  Beyin Alan: 15.41%  Tiraslama: 0.061%
+    12_slice0036.png           Beyin Yenme:   0.44%  Beyin Alan: 12.30%  Tiraslama: 0.054%
+    12_slice0037.png           Beyin Yenme:   0.41%  Beyin Alan:  8.75%  Tiraslama: 0.036%
+
+  [ Hasta 13 — 21 dilim ]
+    13_slice0005.png           Beyin Yenme:   0.50%  Beyin Alan:  9.57%  Tiraslama: 0.048%
+    13_slice0007.png           Beyin Yenme:   0.49%  Beyin Alan: 18.14%  Tiraslama: 0.090%
+    13_slice0008.png           Beyin Yenme:   0.38%  Beyin Alan: 23.03%  Tiraslama: 0.087%
+    13_slice0009.png           Beyin Yenme:   0.13%  Beyin Alan: 25.70%  Tiraslama: 0.032%
+    13_slice0010.png           Beyin Yenme:   0.29%  Beyin Alan: 26.89%  Tiraslama: 0.078%
+    13_slice0011.png           Beyin Yenme:   0.16%  Beyin Alan: 27.45%  Tiraslama: 0.043%
+    13_slice0012.png           Beyin Yenme:   0.25%  Beyin Alan: 27.88%  Tiraslama: 0.070%
+    13_slice0013.png           Beyin Yenme:   0.24%  Beyin Alan: 28.20%  Tiraslama: 0.068%
+    13_slice0014.png           Beyin Yenme:   0.26%  Beyin Alan: 28.11%  Tiraslama: 0.072%
+    13_slice0015.png           Beyin Yenme:   0.18%  Beyin Alan: 27.77%  Tiraslama: 0.050%
+    13_slice0016.png           Beyin Yenme:   0.25%  Beyin Alan: 27.07%  Tiraslama: 0.068%
+    13_slice0017.png           Beyin Yenme:   0.14%  Beyin Alan: 25.94%  Tiraslama: 0.036%
+    13_slice0018.png           Beyin Yenme:   0.21%  Beyin Alan: 24.79%  Tiraslama: 0.053%
+    13_slice0019.png           Beyin Yenme:   0.15%  Beyin Alan: 23.19%  Tiraslama: 0.035%
+    13_slice0020.png           Beyin Yenme:   0.16%  Beyin Alan: 21.54%  Tiraslama: 0.034%
+    13_slice0021.png           Beyin Yenme:   0.17%  Beyin Alan: 18.94%  Tiraslama: 0.032%
+    13_slice0022.png           Beyin Yenme:   0.12%  Beyin Alan: 16.43%  Tiraslama: 0.019%
+    13_slice0023.png           Beyin Yenme:   0.05%  Beyin Alan: 13.40%  Tiraslama: 0.007%
+    13_slice0024.png           Beyin Yenme:   0.32%  Beyin Alan: 10.73%  Tiraslama: 0.034%
+    13_slice0025.png           Beyin Yenme:   0.15%  Beyin Alan:  7.32%  Tiraslama: 0.011%
+    13_slice0026.png           Beyin Yenme:   0.15%  Beyin Alan:  4.05%  Tiraslama: 0.006%
+
+  [ Hasta 14 — 19 dilim ]
+    14_slice0007.png           Beyin Yenme:   0.09%  Beyin Alan:  0.89%  Tiraslama: 0.001%
+    14_slice0012.png           Beyin Yenme:   0.47%  Beyin Alan:  9.73%  Tiraslama: 0.046%
+    14_slice0014.png           Beyin Yenme:   0.27%  Beyin Alan: 15.20%  Tiraslama: 0.041%
+    14_slice0015.png           Beyin Yenme:   0.35%  Beyin Alan: 17.30%  Tiraslama: 0.060%
+    14_slice0016.png           Beyin Yenme:   0.37%  Beyin Alan: 19.64%  Tiraslama: 0.073%
+    14_slice0017.png           Beyin Yenme:   0.36%  Beyin Alan: 21.10%  Tiraslama: 0.076%
+    14_slice0018.png           Beyin Yenme:   0.23%  Beyin Alan: 21.82%  Tiraslama: 0.050%
+    14_slice0019.png           Beyin Yenme:   0.12%  Beyin Alan: 23.59%  Tiraslama: 0.028%
+    14_slice0020.png           Beyin Yenme:   0.19%  Beyin Alan: 25.29%  Tiraslama: 0.048%
+    14_slice0026.png           Beyin Yenme:   0.07%  Beyin Alan: 27.11%  Tiraslama: 0.018%
+    14_slice0027.png           Beyin Yenme:   0.04%  Beyin Alan: 25.90%  Tiraslama: 0.011%
+    14_slice0028.png           Beyin Yenme:   0.02%  Beyin Alan: 24.09%  Tiraslama: 0.005%
+    14_slice0029.png           Beyin Yenme:   0.02%  Beyin Alan: 22.05%  Tiraslama: 0.003%
+    14_slice0030.png           Beyin Yenme:   0.02%  Beyin Alan: 19.88%  Tiraslama: 0.005%
+    14_slice0031.png           Beyin Yenme:   0.01%  Beyin Alan: 17.57%  Tiraslama: 0.002%
+    14_slice0032.png           Beyin Yenme:   0.00%  Beyin Alan: 14.71%  Tiraslama: 0.000%
+    14_slice0033.png           Beyin Yenme:   0.01%  Beyin Alan: 11.59%  Tiraslama: 0.001%
+    14_slice0034.png           Beyin Yenme:   0.02%  Beyin Alan:  8.17%  Tiraslama: 0.002%
+    14_slice0035.png           Beyin Yenme:   0.00%  Beyin Alan:  5.01%  Tiraslama: 0.000%
+
+  [ Hasta 15 — 20 dilim ]
+    15_slice0005.png           Beyin Yenme:   0.00%  Beyin Alan:  1.53%  Tiraslama: 0.000%
+    15_slice0007.png           Beyin Yenme:   0.15%  Beyin Alan:  7.45%  Tiraslama: 0.011%
+    15_slice0011.png           Beyin Yenme:   0.45%  Beyin Alan: 13.15%  Tiraslama: 0.059%
+    15_slice0012.png           Beyin Yenme:   0.15%  Beyin Alan: 14.32%  Tiraslama: 0.022%
+    15_slice0013.png           Beyin Yenme:   0.19%  Beyin Alan: 18.61%  Tiraslama: 0.035%
+    15_slice0014.png           Beyin Yenme:   0.09%  Beyin Alan: 23.10%  Tiraslama: 0.021%
+    15_slice0015.png           Beyin Yenme:   0.09%  Beyin Alan: 25.02%  Tiraslama: 0.022%
+    15_slice0016.png           Beyin Yenme:   0.19%  Beyin Alan: 26.25%  Tiraslama: 0.049%
+    15_slice0017.png           Beyin Yenme:   0.17%  Beyin Alan: 26.55%  Tiraslama: 0.044%
+    15_slice0018.png           Beyin Yenme:   0.45%  Beyin Alan: 26.83%  Tiraslama: 0.120%
+    15_slice0019.png           Beyin Yenme:   0.18%  Beyin Alan: 27.79%  Tiraslama: 0.050%
+    15_slice0020.png           Beyin Yenme:   0.24%  Beyin Alan: 28.36%  Tiraslama: 0.069%
+    15_slice0026.png           Beyin Yenme:   0.05%  Beyin Alan: 27.86%  Tiraslama: 0.014%
+    15_slice0027.png           Beyin Yenme:   0.05%  Beyin Alan: 25.82%  Tiraslama: 0.012%
+    15_slice0028.png           Beyin Yenme:   0.01%  Beyin Alan: 23.28%  Tiraslama: 0.002%
+    15_slice0029.png           Beyin Yenme:   0.00%  Beyin Alan: 20.08%  Tiraslama: 0.000%
+    15_slice0030.png           Beyin Yenme:   0.00%  Beyin Alan: 16.55%  Tiraslama: 0.000%
+    15_slice0031.png           Beyin Yenme:   0.00%  Beyin Alan: 12.88%  Tiraslama: 0.000%
+    15_slice0032.png           Beyin Yenme:   0.00%  Beyin Alan:  9.19%  Tiraslama: 0.000%
+    15_slice0033.png           Beyin Yenme:   0.00%  Beyin Alan:  5.91%  Tiraslama: 0.000%
+
+  [ Hasta 16 — 19 dilim ]
+    16_slice0008.png           Beyin Yenme:   0.08%  Beyin Alan:  4.60%  Tiraslama: 0.004%
+    16_slice0009.png           Beyin Yenme:   0.05%  Beyin Alan:  7.57%  Tiraslama: 0.004%
+    16_slice0010.png           Beyin Yenme:   0.33%  Beyin Alan: 10.40%  Tiraslama: 0.035%
+    16_slice0011.png           Beyin Yenme:   0.20%  Beyin Alan: 13.47%  Tiraslama: 0.026%
+    16_slice0012.png           Beyin Yenme:   0.19%  Beyin Alan: 16.56%  Tiraslama: 0.032%
+    16_slice0013.png           Beyin Yenme:   0.25%  Beyin Alan: 18.78%  Tiraslama: 0.047%
+    16_slice0014.png           Beyin Yenme:   0.31%  Beyin Alan: 23.34%  Tiraslama: 0.072%
+    16_slice0017.png           Beyin Yenme:   0.08%  Beyin Alan: 28.62%  Tiraslama: 0.022%
+    16_slice0018.png           Beyin Yenme:   0.26%  Beyin Alan: 30.19%  Tiraslama: 0.079%
+    16_slice0019.png           Beyin Yenme:   0.28%  Beyin Alan: 30.94%  Tiraslama: 0.087%
+    16_slice0021.png           Beyin Yenme:   0.13%  Beyin Alan: 29.65%  Tiraslama: 0.038%
+    16_slice0022.png           Beyin Yenme:   0.07%  Beyin Alan: 28.54%  Tiraslama: 0.021%
+    16_slice0023.png           Beyin Yenme:   0.07%  Beyin Alan: 27.05%  Tiraslama: 0.020%
+    16_slice0024.png           Beyin Yenme:   0.05%  Beyin Alan: 25.12%  Tiraslama: 0.013%
+    16_slice0026.png           Beyin Yenme:   0.35%  Beyin Alan: 23.14%  Tiraslama: 0.082%
+    16_slice0027.png           Beyin Yenme:   0.20%  Beyin Alan: 20.18%  Tiraslama: 0.041%
+    16_slice0028.png           Beyin Yenme:   0.05%  Beyin Alan: 16.72%  Tiraslama: 0.008%
+    16_slice0029.png           Beyin Yenme:   0.19%  Beyin Alan: 13.89%  Tiraslama: 0.026%
+    16_slice0030.png           Beyin Yenme:   0.46%  Beyin Alan: 10.29%  Tiraslama: 0.047%
+
+  [ Hasta 17 — 20 dilim ]
+    17_slice0008.png           Beyin Yenme:   0.11%  Beyin Alan:  4.33%  Tiraslama: 0.005%
+    17_slice0011.png           Beyin Yenme:   0.22%  Beyin Alan:  9.57%  Tiraslama: 0.021%
+    17_slice0012.png           Beyin Yenme:   0.28%  Beyin Alan: 12.27%  Tiraslama: 0.034%
+    17_slice0015.png           Beyin Yenme:   0.50%  Beyin Alan: 21.34%  Tiraslama: 0.106%
+    17_slice0016.png           Beyin Yenme:   0.29%  Beyin Alan: 24.14%  Tiraslama: 0.071%
+    17_slice0017.png           Beyin Yenme:   0.35%  Beyin Alan: 26.19%  Tiraslama: 0.093%
+    17_slice0018.png           Beyin Yenme:   0.36%  Beyin Alan: 26.59%  Tiraslama: 0.097%
+    17_slice0019.png           Beyin Yenme:   0.29%  Beyin Alan: 26.47%  Tiraslama: 0.076%
+    17_slice0020.png           Beyin Yenme:   0.35%  Beyin Alan: 25.78%  Tiraslama: 0.089%
+    17_slice0021.png           Beyin Yenme:   0.36%  Beyin Alan: 25.10%  Tiraslama: 0.090%
+    17_slice0022.png           Beyin Yenme:   0.30%  Beyin Alan: 24.25%  Tiraslama: 0.073%
+    17_slice0023.png           Beyin Yenme:   0.30%  Beyin Alan: 23.15%  Tiraslama: 0.069%
+    17_slice0024.png           Beyin Yenme:   0.10%  Beyin Alan: 21.38%  Tiraslama: 0.022%
+    17_slice0025.png           Beyin Yenme:   0.06%  Beyin Alan: 19.33%  Tiraslama: 0.012%
+    17_slice0026.png           Beyin Yenme:   0.01%  Beyin Alan: 16.70%  Tiraslama: 0.002%
+    17_slice0027.png           Beyin Yenme:   0.07%  Beyin Alan: 13.88%  Tiraslama: 0.009%
+    17_slice0028.png           Beyin Yenme:   0.03%  Beyin Alan: 10.59%  Tiraslama: 0.003%
+    17_slice0029.png           Beyin Yenme:   0.03%  Beyin Alan:  7.24%  Tiraslama: 0.002%
+    17_slice0030.png           Beyin Yenme:   0.00%  Beyin Alan:  4.37%  Tiraslama: 0.000%
+    17_slice0031.png           Beyin Yenme:   0.07%  Beyin Alan:  1.56%  Tiraslama: 0.001%
+
+  [ Hasta 18 — 12 dilim ]
+    18_slice0012.png           Beyin Yenme:   0.43%  Beyin Alan: 21.10%  Tiraslama: 0.091%
+    18_slice0015.png           Beyin Yenme:   0.45%  Beyin Alan: 26.28%  Tiraslama: 0.118%
+    18_slice0016.png           Beyin Yenme:   0.42%  Beyin Alan: 27.48%  Tiraslama: 0.116%
+    18_slice0017.png           Beyin Yenme:   0.50%  Beyin Alan: 28.17%  Tiraslama: 0.141%
+    18_slice0018.png           Beyin Yenme:   0.48%  Beyin Alan: 28.56%  Tiraslama: 0.138%
+    18_slice0019.png           Beyin Yenme:   0.39%  Beyin Alan: 29.07%  Tiraslama: 0.114%
+    18_slice0020.png           Beyin Yenme:   0.45%  Beyin Alan: 28.83%  Tiraslama: 0.129%
+    18_slice0022.png           Beyin Yenme:   0.46%  Beyin Alan: 26.01%  Tiraslama: 0.120%
+    18_slice0023.png           Beyin Yenme:   0.47%  Beyin Alan: 23.99%  Tiraslama: 0.114%
+    18_slice0024.png           Beyin Yenme:   0.45%  Beyin Alan: 21.48%  Tiraslama: 0.097%
+    18_slice0027.png           Beyin Yenme:   0.46%  Beyin Alan: 10.36%  Tiraslama: 0.047%
+    18_slice0029.png           Beyin Yenme:   0.35%  Beyin Alan:  2.40%  Tiraslama: 0.008%
+
+  [ Hasta 19 — 22 dilim ]
+    19_slice0005.png           Beyin Yenme:   0.46%  Beyin Alan:  5.11%  Tiraslama: 0.024%
+    19_slice0009.png           Beyin Yenme:   0.42%  Beyin Alan: 12.36%  Tiraslama: 0.052%
+    19_slice0010.png           Beyin Yenme:   0.43%  Beyin Alan: 15.42%  Tiraslama: 0.067%
+    19_slice0011.png           Beyin Yenme:   0.38%  Beyin Alan: 22.69%  Tiraslama: 0.086%
+    19_slice0012.png           Beyin Yenme:   0.35%  Beyin Alan: 25.22%  Tiraslama: 0.089%
+    19_slice0013.png           Beyin Yenme:   0.47%  Beyin Alan: 26.76%  Tiraslama: 0.125%
+    19_slice0014.png           Beyin Yenme:   0.32%  Beyin Alan: 27.20%  Tiraslama: 0.086%
+    19_slice0015.png           Beyin Yenme:   0.24%  Beyin Alan: 29.37%  Tiraslama: 0.070%
+    19_slice0017.png           Beyin Yenme:   0.39%  Beyin Alan: 32.67%  Tiraslama: 0.127%
+    19_slice0018.png           Beyin Yenme:   0.36%  Beyin Alan: 34.37%  Tiraslama: 0.124%
+    19_slice0019.png           Beyin Yenme:   0.29%  Beyin Alan: 35.21%  Tiraslama: 0.101%
+    19_slice0020.png           Beyin Yenme:   0.29%  Beyin Alan: 35.25%  Tiraslama: 0.102%
+    19_slice0021.png           Beyin Yenme:   0.29%  Beyin Alan: 34.58%  Tiraslama: 0.099%
+    19_slice0022.png           Beyin Yenme:   0.29%  Beyin Alan: 33.37%  Tiraslama: 0.098%
+    19_slice0023.png           Beyin Yenme:   0.31%  Beyin Alan: 31.52%  Tiraslama: 0.098%
+    19_slice0024.png           Beyin Yenme:   0.28%  Beyin Alan: 28.93%  Tiraslama: 0.082%
+    19_slice0025.png           Beyin Yenme:   0.24%  Beyin Alan: 25.72%  Tiraslama: 0.063%
+    19_slice0026.png           Beyin Yenme:   0.20%  Beyin Alan: 22.02%  Tiraslama: 0.045%
+    19_slice0027.png           Beyin Yenme:   0.31%  Beyin Alan: 17.81%  Tiraslama: 0.055%
+    19_slice0028.png           Beyin Yenme:   0.30%  Beyin Alan: 13.19%  Tiraslama: 0.040%
+    19_slice0029.png           Beyin Yenme:   0.17%  Beyin Alan:  7.85%  Tiraslama: 0.014%
+    19_slice0030.png           Beyin Yenme:   0.03%  Beyin Alan:  1.50%  Tiraslama: 0.000%
+
+  [ Hasta 20 — 21 dilim ]
+    20_slice0006.png           Beyin Yenme:   0.22%  Beyin Alan:  4.45%  Tiraslama: 0.010%
+    20_slice0008.png           Beyin Yenme:   0.47%  Beyin Alan:  8.29%  Tiraslama: 0.038%
+    20_slice0012.png           Beyin Yenme:   0.33%  Beyin Alan: 18.97%  Tiraslama: 0.062%
+    20_slice0013.png           Beyin Yenme:   0.28%  Beyin Alan: 20.98%  Tiraslama: 0.058%
+    20_slice0014.png           Beyin Yenme:   0.40%  Beyin Alan: 22.03%  Tiraslama: 0.088%
+    20_slice0015.png           Beyin Yenme:   0.33%  Beyin Alan: 24.95%  Tiraslama: 0.082%
+    20_slice0016.png           Beyin Yenme:   0.25%  Beyin Alan: 27.05%  Tiraslama: 0.068%
+    20_slice0017.png           Beyin Yenme:   0.30%  Beyin Alan: 28.94%  Tiraslama: 0.088%
+    20_slice0018.png           Beyin Yenme:   0.29%  Beyin Alan: 29.82%  Tiraslama: 0.087%
+    20_slice0019.png           Beyin Yenme:   0.25%  Beyin Alan: 29.59%  Tiraslama: 0.074%
+    20_slice0020.png           Beyin Yenme:   0.22%  Beyin Alan: 28.84%  Tiraslama: 0.065%
+    20_slice0021.png           Beyin Yenme:   0.18%  Beyin Alan: 27.90%  Tiraslama: 0.051%
+    20_slice0022.png           Beyin Yenme:   0.18%  Beyin Alan: 26.62%  Tiraslama: 0.048%
+    20_slice0023.png           Beyin Yenme:   0.31%  Beyin Alan: 24.99%  Tiraslama: 0.077%
+    20_slice0024.png           Beyin Yenme:   0.30%  Beyin Alan: 22.81%  Tiraslama: 0.068%
+    20_slice0025.png           Beyin Yenme:   0.24%  Beyin Alan: 20.29%  Tiraslama: 0.048%
+    20_slice0026.png           Beyin Yenme:   0.18%  Beyin Alan: 17.29%  Tiraslama: 0.031%
+    20_slice0027.png           Beyin Yenme:   0.14%  Beyin Alan: 14.02%  Tiraslama: 0.019%
+    20_slice0028.png           Beyin Yenme:   0.44%  Beyin Alan: 10.59%  Tiraslama: 0.046%
+    20_slice0029.png           Beyin Yenme:   0.36%  Beyin Alan:  6.57%  Tiraslama: 0.024%
+    20_slice0030.png           Beyin Yenme:   0.20%  Beyin Alan:  2.84%  Tiraslama: 0.006%
+
+  [ Hasta 21 — 22 dilim ]
+    21_slice0006.png           Beyin Yenme:   0.10%  Beyin Alan:  3.52%  Tiraslama: 0.003%
+    21_slice0008.png           Beyin Yenme:   0.36%  Beyin Alan:  6.71%  Tiraslama: 0.024%
+    21_slice0009.png           Beyin Yenme:   0.48%  Beyin Alan:  8.31%  Tiraslama: 0.040%
+    21_slice0011.png           Beyin Yenme:   0.32%  Beyin Alan: 12.69%  Tiraslama: 0.040%
+    21_slice0014.png           Beyin Yenme:   0.19%  Beyin Alan: 19.48%  Tiraslama: 0.038%
+    21_slice0015.png           Beyin Yenme:   0.14%  Beyin Alan: 24.43%  Tiraslama: 0.034%
+    21_slice0016.png           Beyin Yenme:   0.16%  Beyin Alan: 27.22%  Tiraslama: 0.043%
+    21_slice0017.png           Beyin Yenme:   0.18%  Beyin Alan: 28.57%  Tiraslama: 0.052%
+    21_slice0018.png           Beyin Yenme:   0.27%  Beyin Alan: 29.02%  Tiraslama: 0.077%
+    21_slice0019.png           Beyin Yenme:   0.17%  Beyin Alan: 28.92%  Tiraslama: 0.049%
+    21_slice0020.png           Beyin Yenme:   0.18%  Beyin Alan: 28.27%  Tiraslama: 0.051%
+    21_slice0021.png           Beyin Yenme:   0.20%  Beyin Alan: 27.34%  Tiraslama: 0.055%
+    21_slice0022.png           Beyin Yenme:   0.14%  Beyin Alan: 26.11%  Tiraslama: 0.037%
+    21_slice0023.png           Beyin Yenme:   0.14%  Beyin Alan: 24.67%  Tiraslama: 0.034%
+    21_slice0024.png           Beyin Yenme:   0.12%  Beyin Alan: 22.97%  Tiraslama: 0.027%
+    21_slice0025.png           Beyin Yenme:   0.05%  Beyin Alan: 20.89%  Tiraslama: 0.009%
+    21_slice0026.png           Beyin Yenme:   0.03%  Beyin Alan: 18.38%  Tiraslama: 0.006%
+    21_slice0027.png           Beyin Yenme:   0.05%  Beyin Alan: 15.58%  Tiraslama: 0.008%
+    21_slice0028.png           Beyin Yenme:   0.04%  Beyin Alan: 12.46%  Tiraslama: 0.005%
+    21_slice0029.png           Beyin Yenme:   0.00%  Beyin Alan:  9.41%  Tiraslama: 0.000%
+    21_slice0030.png           Beyin Yenme:   0.00%  Beyin Alan:  6.47%  Tiraslama: 0.000%
+    21_slice0031.png           Beyin Yenme:   0.00%  Beyin Alan:  3.81%  Tiraslama: 0.000%
+
+  [ Hasta 22 — 23 dilim ]
+    22_slice0006.png           Beyin Yenme:   0.49%  Beyin Alan:  6.41%  Tiraslama: 0.031%
+    22_slice0008.png           Beyin Yenme:   0.42%  Beyin Alan: 12.10%  Tiraslama: 0.051%
+    22_slice0009.png           Beyin Yenme:   0.22%  Beyin Alan: 15.12%  Tiraslama: 0.034%
+    22_slice0010.png           Beyin Yenme:   0.34%  Beyin Alan: 18.36%  Tiraslama: 0.062%
+    22_slice0011.png           Beyin Yenme:   0.23%  Beyin Alan: 22.55%  Tiraslama: 0.051%
+    22_slice0012.png           Beyin Yenme:   0.22%  Beyin Alan: 26.38%  Tiraslama: 0.058%
+    22_slice0013.png           Beyin Yenme:   0.26%  Beyin Alan: 28.48%  Tiraslama: 0.075%
+    22_slice0014.png           Beyin Yenme:   0.22%  Beyin Alan: 29.66%  Tiraslama: 0.065%
+    22_slice0015.png           Beyin Yenme:   0.26%  Beyin Alan: 30.04%  Tiraslama: 0.079%
+    22_slice0016.png           Beyin Yenme:   0.21%  Beyin Alan: 29.88%  Tiraslama: 0.064%
+    22_slice0017.png           Beyin Yenme:   0.27%  Beyin Alan: 29.48%  Tiraslama: 0.079%
+    22_slice0018.png           Beyin Yenme:   0.14%  Beyin Alan: 28.75%  Tiraslama: 0.040%
+    22_slice0019.png           Beyin Yenme:   0.19%  Beyin Alan: 27.96%  Tiraslama: 0.052%
+    22_slice0020.png           Beyin Yenme:   0.18%  Beyin Alan: 26.84%  Tiraslama: 0.048%
+    22_slice0021.png           Beyin Yenme:   0.28%  Beyin Alan: 25.32%  Tiraslama: 0.071%
+    22_slice0022.png           Beyin Yenme:   0.26%  Beyin Alan: 23.52%  Tiraslama: 0.061%
+    22_slice0023.png           Beyin Yenme:   0.26%  Beyin Alan: 21.47%  Tiraslama: 0.055%
+    22_slice0024.png           Beyin Yenme:   0.22%  Beyin Alan: 19.06%  Tiraslama: 0.043%
+    22_slice0025.png           Beyin Yenme:   0.17%  Beyin Alan: 15.89%  Tiraslama: 0.028%
+    22_slice0026.png           Beyin Yenme:   0.14%  Beyin Alan: 12.63%  Tiraslama: 0.017%
+    22_slice0027.png           Beyin Yenme:   0.08%  Beyin Alan:  9.11%  Tiraslama: 0.007%
+    22_slice0028.png           Beyin Yenme:   0.08%  Beyin Alan:  5.79%  Tiraslama: 0.005%
+    22_slice0029.png           Beyin Yenme:   0.08%  Beyin Alan:  2.37%  Tiraslama: 0.002%
+
+  [ Hasta 23 — 23 dilim ]
+    23_slice0007.png           Beyin Yenme:   0.41%  Beyin Alan: 17.75%  Tiraslama: 0.074%
+    23_slice0008.png           Beyin Yenme:   0.41%  Beyin Alan: 20.46%  Tiraslama: 0.085%
+    23_slice0009.png           Beyin Yenme:   0.50%  Beyin Alan: 23.95%  Tiraslama: 0.119%
+    23_slice0010.png           Beyin Yenme:   0.36%  Beyin Alan: 26.36%  Tiraslama: 0.095%
+    23_slice0011.png           Beyin Yenme:   0.24%  Beyin Alan: 27.71%  Tiraslama: 0.066%
+    23_slice0012.png           Beyin Yenme:   0.26%  Beyin Alan: 28.57%  Tiraslama: 0.074%
+    23_slice0013.png           Beyin Yenme:   0.21%  Beyin Alan: 29.03%  Tiraslama: 0.061%
+    23_slice0014.png           Beyin Yenme:   0.27%  Beyin Alan: 29.18%  Tiraslama: 0.078%
+    23_slice0015.png           Beyin Yenme:   0.33%  Beyin Alan: 28.99%  Tiraslama: 0.095%
+    23_slice0016.png           Beyin Yenme:   0.27%  Beyin Alan: 28.48%  Tiraslama: 0.078%
+    23_slice0017.png           Beyin Yenme:   0.26%  Beyin Alan: 27.66%  Tiraslama: 0.071%
+    23_slice0018.png           Beyin Yenme:   0.28%  Beyin Alan: 26.76%  Tiraslama: 0.074%
+    23_slice0019.png           Beyin Yenme:   0.25%  Beyin Alan: 25.83%  Tiraslama: 0.065%
+    23_slice0020.png           Beyin Yenme:   0.22%  Beyin Alan: 24.68%  Tiraslama: 0.055%
+    23_slice0021.png           Beyin Yenme:   0.35%  Beyin Alan: 23.09%  Tiraslama: 0.082%
+    23_slice0022.png           Beyin Yenme:   0.41%  Beyin Alan: 21.43%  Tiraslama: 0.089%
+    23_slice0023.png           Beyin Yenme:   0.31%  Beyin Alan: 19.55%  Tiraslama: 0.060%
+    23_slice0024.png           Beyin Yenme:   0.32%  Beyin Alan: 17.30%  Tiraslama: 0.056%
+    23_slice0025.png           Beyin Yenme:   0.27%  Beyin Alan: 14.52%  Tiraslama: 0.038%
+    23_slice0026.png           Beyin Yenme:   0.41%  Beyin Alan: 11.85%  Tiraslama: 0.049%
+    23_slice0027.png           Beyin Yenme:   0.37%  Beyin Alan:  8.87%  Tiraslama: 0.033%
+    23_slice0028.png           Beyin Yenme:   0.46%  Beyin Alan:  5.67%  Tiraslama: 0.026%
+    23_slice0029.png           Beyin Yenme:   0.15%  Beyin Alan:  2.58%  Tiraslama: 0.004%
+
+  [ Hasta 24 — 24 dilim ]
+    24_slice0006.png           Beyin Yenme:   0.22%  Beyin Alan:  3.10%  Tiraslama: 0.007%
+    24_slice0008.png           Beyin Yenme:   0.28%  Beyin Alan: 12.42%  Tiraslama: 0.034%
+    24_slice0009.png           Beyin Yenme:   0.47%  Beyin Alan: 17.42%  Tiraslama: 0.082%
+    24_slice0010.png           Beyin Yenme:   0.37%  Beyin Alan: 22.60%  Tiraslama: 0.083%
+    24_slice0011.png           Beyin Yenme:   0.30%  Beyin Alan: 30.21%  Tiraslama: 0.090%
+    24_slice0012.png           Beyin Yenme:   0.26%  Beyin Alan: 33.07%  Tiraslama: 0.086%
+    24_slice0013.png           Beyin Yenme:   0.17%  Beyin Alan: 34.06%  Tiraslama: 0.058%
+    24_slice0014.png           Beyin Yenme:   0.12%  Beyin Alan: 34.82%  Tiraslama: 0.040%
+    24_slice0015.png           Beyin Yenme:   0.11%  Beyin Alan: 35.48%  Tiraslama: 0.040%
+    24_slice0016.png           Beyin Yenme:   0.15%  Beyin Alan: 35.70%  Tiraslama: 0.052%
+    24_slice0017.png           Beyin Yenme:   0.25%  Beyin Alan: 35.75%  Tiraslama: 0.091%
+    24_slice0018.png           Beyin Yenme:   0.17%  Beyin Alan: 35.07%  Tiraslama: 0.059%
+    24_slice0019.png           Beyin Yenme:   0.24%  Beyin Alan: 33.77%  Tiraslama: 0.082%
+    24_slice0020.png           Beyin Yenme:   0.15%  Beyin Alan: 32.22%  Tiraslama: 0.048%
+    24_slice0021.png           Beyin Yenme:   0.22%  Beyin Alan: 30.41%  Tiraslama: 0.066%
+    24_slice0022.png           Beyin Yenme:   0.20%  Beyin Alan: 28.12%  Tiraslama: 0.057%
+    24_slice0023.png           Beyin Yenme:   0.23%  Beyin Alan: 25.67%  Tiraslama: 0.060%
+    24_slice0024.png           Beyin Yenme:   0.11%  Beyin Alan: 22.89%  Tiraslama: 0.025%
+    24_slice0025.png           Beyin Yenme:   0.21%  Beyin Alan: 19.85%  Tiraslama: 0.041%
+    24_slice0026.png           Beyin Yenme:   0.19%  Beyin Alan: 16.98%  Tiraslama: 0.032%
+    24_slice0027.png           Beyin Yenme:   0.13%  Beyin Alan: 14.10%  Tiraslama: 0.019%
+    24_slice0028.png           Beyin Yenme:   0.22%  Beyin Alan: 10.90%  Tiraslama: 0.024%
+    24_slice0029.png           Beyin Yenme:   0.13%  Beyin Alan:  7.38%  Tiraslama: 0.009%
+    24_slice0030.png           Beyin Yenme:   0.18%  Beyin Alan:  2.91%  Tiraslama: 0.005%
+
+  [ Hasta 25 — 24 dilim ]
+    25_slice0004.png           Beyin Yenme:   0.29%  Beyin Alan:  2.77%  Tiraslama: 0.008%
+    25_slice0007.png           Beyin Yenme:   0.25%  Beyin Alan: 13.39%  Tiraslama: 0.034%
+    25_slice0008.png           Beyin Yenme:   0.28%  Beyin Alan: 17.26%  Tiraslama: 0.048%
+    25_slice0009.png           Beyin Yenme:   0.25%  Beyin Alan: 22.78%  Tiraslama: 0.057%
+    25_slice0010.png           Beyin Yenme:   0.30%  Beyin Alan: 26.29%  Tiraslama: 0.080%
+    25_slice0011.png           Beyin Yenme:   0.15%  Beyin Alan: 28.23%  Tiraslama: 0.042%
+    25_slice0012.png           Beyin Yenme:   0.17%  Beyin Alan: 29.00%  Tiraslama: 0.049%
+    25_slice0013.png           Beyin Yenme:   0.19%  Beyin Alan: 29.73%  Tiraslama: 0.057%
+    25_slice0014.png           Beyin Yenme:   0.17%  Beyin Alan: 30.32%  Tiraslama: 0.053%
+    25_slice0015.png           Beyin Yenme:   0.08%  Beyin Alan: 30.77%  Tiraslama: 0.026%
+    25_slice0016.png           Beyin Yenme:   0.10%  Beyin Alan: 30.66%  Tiraslama: 0.030%
+    25_slice0017.png           Beyin Yenme:   0.09%  Beyin Alan: 29.81%  Tiraslama: 0.027%
+    25_slice0018.png           Beyin Yenme:   0.08%  Beyin Alan: 28.71%  Tiraslama: 0.022%
+    25_slice0019.png           Beyin Yenme:   0.12%  Beyin Alan: 27.31%  Tiraslama: 0.032%
+    25_slice0020.png           Beyin Yenme:   0.15%  Beyin Alan: 25.50%  Tiraslama: 0.038%
+    25_slice0021.png           Beyin Yenme:   0.24%  Beyin Alan: 23.44%  Tiraslama: 0.056%
+    25_slice0022.png           Beyin Yenme:   0.21%  Beyin Alan: 21.23%  Tiraslama: 0.045%
+    25_slice0023.png           Beyin Yenme:   0.23%  Beyin Alan: 18.81%  Tiraslama: 0.043%
+    25_slice0024.png           Beyin Yenme:   0.10%  Beyin Alan: 16.20%  Tiraslama: 0.016%
+    25_slice0025.png           Beyin Yenme:   0.11%  Beyin Alan: 13.28%  Tiraslama: 0.015%
+    25_slice0026.png           Beyin Yenme:   0.03%  Beyin Alan:  9.88%  Tiraslama: 0.003%
+    25_slice0027.png           Beyin Yenme:   0.06%  Beyin Alan:  6.70%  Tiraslama: 0.004%
+    25_slice0028.png           Beyin Yenme:   0.04%  Beyin Alan:  4.05%  Tiraslama: 0.002%
+    25_slice0029.png           Beyin Yenme:   0.00%  Beyin Alan:  1.14%  Tiraslama: 0.000%
+
+  [ Hasta 26 — 23 dilim ]
+    26_slice0004.png           Beyin Yenme:   0.33%  Beyin Alan:  2.55%  Tiraslama: 0.008%
+    26_slice0006.png           Beyin Yenme:   0.46%  Beyin Alan:  6.25%  Tiraslama: 0.029%
+    26_slice0007.png           Beyin Yenme:   0.47%  Beyin Alan:  7.51%  Tiraslama: 0.035%
+    26_slice0008.png           Beyin Yenme:   0.32%  Beyin Alan:  8.73%  Tiraslama: 0.028%
+    26_slice0010.png           Beyin Yenme:   0.43%  Beyin Alan: 12.87%  Tiraslama: 0.056%
+    26_slice0011.png           Beyin Yenme:   0.35%  Beyin Alan: 14.83%  Tiraslama: 0.052%
+    26_slice0012.png           Beyin Yenme:   0.27%  Beyin Alan: 16.11%  Tiraslama: 0.044%
+    26_slice0013.png           Beyin Yenme:   0.31%  Beyin Alan: 17.04%  Tiraslama: 0.052%
+    26_slice0014.png           Beyin Yenme:   0.20%  Beyin Alan: 17.55%  Tiraslama: 0.035%
+    26_slice0015.png           Beyin Yenme:   0.20%  Beyin Alan: 18.38%  Tiraslama: 0.037%
+    26_slice0016.png           Beyin Yenme:   0.16%  Beyin Alan: 19.67%  Tiraslama: 0.032%
+    26_slice0017.png           Beyin Yenme:   0.13%  Beyin Alan: 20.31%  Tiraslama: 0.026%
+    26_slice0018.png           Beyin Yenme:   0.15%  Beyin Alan: 20.68%  Tiraslama: 0.032%
+    26_slice0019.png           Beyin Yenme:   0.12%  Beyin Alan: 20.96%  Tiraslama: 0.026%
+    26_slice0020.png           Beyin Yenme:   0.17%  Beyin Alan: 20.58%  Tiraslama: 0.034%
+    26_slice0021.png           Beyin Yenme:   0.12%  Beyin Alan: 19.57%  Tiraslama: 0.023%
+    26_slice0022.png           Beyin Yenme:   0.12%  Beyin Alan: 18.10%  Tiraslama: 0.022%
+    26_slice0023.png           Beyin Yenme:   0.08%  Beyin Alan: 16.06%  Tiraslama: 0.013%
+    26_slice0024.png           Beyin Yenme:   0.05%  Beyin Alan: 13.63%  Tiraslama: 0.007%
+    26_slice0025.png           Beyin Yenme:   0.04%  Beyin Alan: 10.69%  Tiraslama: 0.004%
+    26_slice0026.png           Beyin Yenme:   0.00%  Beyin Alan:  7.41%  Tiraslama: 0.000%
+    26_slice0027.png           Beyin Yenme:   0.00%  Beyin Alan:  3.82%  Tiraslama: 0.000%
+    26_slice0028.png           Beyin Yenme:   0.00%  Beyin Alan:  0.16%  Tiraslama: 0.000%
+
+  [ Hasta 27 — 21 dilim ]
+    27_slice0008.png           Beyin Yenme:   0.46%  Beyin Alan: 11.35%  Tiraslama: 0.053%
+    27_slice0009.png           Beyin Yenme:   0.26%  Beyin Alan: 13.98%  Tiraslama: 0.036%
+    27_slice0010.png           Beyin Yenme:   0.33%  Beyin Alan: 17.63%  Tiraslama: 0.058%
+    27_slice0011.png           Beyin Yenme:   0.26%  Beyin Alan: 19.85%  Tiraslama: 0.052%
+    27_slice0012.png           Beyin Yenme:   0.30%  Beyin Alan: 23.00%  Tiraslama: 0.068%
+    27_slice0013.png           Beyin Yenme:   0.27%  Beyin Alan: 25.09%  Tiraslama: 0.067%
+    27_slice0014.png           Beyin Yenme:   0.26%  Beyin Alan: 26.64%  Tiraslama: 0.070%
+    27_slice0015.png           Beyin Yenme:   0.32%  Beyin Alan: 27.53%  Tiraslama: 0.088%
+    27_slice0016.png           Beyin Yenme:   0.23%  Beyin Alan: 27.53%  Tiraslama: 0.063%
+    27_slice0017.png           Beyin Yenme:   0.26%  Beyin Alan: 26.92%  Tiraslama: 0.069%
+    27_slice0018.png           Beyin Yenme:   0.37%  Beyin Alan: 26.35%  Tiraslama: 0.097%
+    27_slice0019.png           Beyin Yenme:   0.24%  Beyin Alan: 25.43%  Tiraslama: 0.060%
+    27_slice0020.png           Beyin Yenme:   0.26%  Beyin Alan: 24.41%  Tiraslama: 0.063%
+    27_slice0021.png           Beyin Yenme:   0.25%  Beyin Alan: 22.36%  Tiraslama: 0.057%
+    27_slice0022.png           Beyin Yenme:   0.24%  Beyin Alan: 20.42%  Tiraslama: 0.049%
+    27_slice0023.png           Beyin Yenme:   0.30%  Beyin Alan: 18.23%  Tiraslama: 0.054%
+    27_slice0024.png           Beyin Yenme:   0.22%  Beyin Alan: 15.73%  Tiraslama: 0.035%
+    27_slice0025.png           Beyin Yenme:   0.25%  Beyin Alan: 12.74%  Tiraslama: 0.032%
+    27_slice0026.png           Beyin Yenme:   0.25%  Beyin Alan:  9.61%  Tiraslama: 0.024%
+    27_slice0027.png           Beyin Yenme:   0.48%  Beyin Alan:  6.42%  Tiraslama: 0.031%
+    27_slice0028.png           Beyin Yenme:   0.13%  Beyin Alan:  3.41%  Tiraslama: 0.005%
+
+  [ Hasta 28 — 18 dilim ]
+    28_slice0011.png           Beyin Yenme:   0.44%  Beyin Alan: 21.21%  Tiraslama: 0.093%
+    28_slice0012.png           Beyin Yenme:   0.44%  Beyin Alan: 23.89%  Tiraslama: 0.105%
+    28_slice0013.png           Beyin Yenme:   0.48%  Beyin Alan: 27.59%  Tiraslama: 0.131%
+    28_slice0014.png           Beyin Yenme:   0.37%  Beyin Alan: 29.11%  Tiraslama: 0.108%
+    28_slice0015.png           Beyin Yenme:   0.39%  Beyin Alan: 30.14%  Tiraslama: 0.119%
+    28_slice0016.png           Beyin Yenme:   0.37%  Beyin Alan: 30.94%  Tiraslama: 0.116%
+    28_slice0017.png           Beyin Yenme:   0.31%  Beyin Alan: 31.08%  Tiraslama: 0.095%
+    28_slice0018.png           Beyin Yenme:   0.34%  Beyin Alan: 30.72%  Tiraslama: 0.104%
+    28_slice0019.png           Beyin Yenme:   0.28%  Beyin Alan: 30.18%  Tiraslama: 0.084%
+    28_slice0020.png           Beyin Yenme:   0.44%  Beyin Alan: 29.48%  Tiraslama: 0.131%
+    28_slice0022.png           Beyin Yenme:   0.38%  Beyin Alan: 26.23%  Tiraslama: 0.099%
+    28_slice0023.png           Beyin Yenme:   0.45%  Beyin Alan: 24.05%  Tiraslama: 0.108%
+    28_slice0024.png           Beyin Yenme:   0.36%  Beyin Alan: 21.63%  Tiraslama: 0.078%
+    28_slice0025.png           Beyin Yenme:   0.31%  Beyin Alan: 18.63%  Tiraslama: 0.058%
+    28_slice0026.png           Beyin Yenme:   0.34%  Beyin Alan: 15.54%  Tiraslama: 0.053%
+    28_slice0027.png           Beyin Yenme:   0.38%  Beyin Alan: 12.34%  Tiraslama: 0.046%
+    28_slice0028.png           Beyin Yenme:   0.33%  Beyin Alan:  9.09%  Tiraslama: 0.030%
+    28_slice0030.png           Beyin Yenme:   0.38%  Beyin Alan:  2.30%  Tiraslama: 0.009%
+
+  [ Hasta 29 — 22 dilim ]
+    29_slice0006.png           Beyin Yenme:   0.46%  Beyin Alan: 12.58%  Tiraslama: 0.058%
+    29_slice0007.png           Beyin Yenme:   0.45%  Beyin Alan: 13.56%  Tiraslama: 0.061%
+    29_slice0008.png           Beyin Yenme:   0.47%  Beyin Alan: 17.68%  Tiraslama: 0.083%
+    29_slice0009.png           Beyin Yenme:   0.22%  Beyin Alan: 21.22%  Tiraslama: 0.048%
+    29_slice0010.png           Beyin Yenme:   0.18%  Beyin Alan: 23.58%  Tiraslama: 0.042%
+    29_slice0011.png           Beyin Yenme:   0.22%  Beyin Alan: 25.47%  Tiraslama: 0.057%
+    29_slice0012.png           Beyin Yenme:   0.25%  Beyin Alan: 25.73%  Tiraslama: 0.064%
+    29_slice0013.png           Beyin Yenme:   0.11%  Beyin Alan: 25.89%  Tiraslama: 0.030%
+    29_slice0014.png           Beyin Yenme:   0.20%  Beyin Alan: 26.70%  Tiraslama: 0.055%
+    29_slice0015.png           Beyin Yenme:   0.06%  Beyin Alan: 26.57%  Tiraslama: 0.016%
+    29_slice0016.png           Beyin Yenme:   0.06%  Beyin Alan: 26.74%  Tiraslama: 0.016%
+    29_slice0017.png           Beyin Yenme:   0.11%  Beyin Alan: 27.43%  Tiraslama: 0.030%
+    29_slice0018.png           Beyin Yenme:   0.14%  Beyin Alan: 27.86%  Tiraslama: 0.038%
+    29_slice0019.png           Beyin Yenme:   0.12%  Beyin Alan: 27.49%  Tiraslama: 0.034%
+    29_slice0020.png           Beyin Yenme:   0.16%  Beyin Alan: 26.43%  Tiraslama: 0.042%
+    29_slice0022.png           Beyin Yenme:   0.25%  Beyin Alan: 22.88%  Tiraslama: 0.057%
+    29_slice0023.png           Beyin Yenme:   0.14%  Beyin Alan: 20.32%  Tiraslama: 0.028%
+    29_slice0024.png           Beyin Yenme:   0.12%  Beyin Alan: 17.42%  Tiraslama: 0.021%
+    29_slice0025.png           Beyin Yenme:   0.09%  Beyin Alan: 14.49%  Tiraslama: 0.013%
+    29_slice0026.png           Beyin Yenme:   0.34%  Beyin Alan: 11.21%  Tiraslama: 0.038%
+    29_slice0027.png           Beyin Yenme:   0.22%  Beyin Alan:  7.81%  Tiraslama: 0.017%
+    29_slice0028.png           Beyin Yenme:   0.41%  Beyin Alan:  4.50%  Tiraslama: 0.018%
+
+  [ Hasta 30 — 20 dilim ]
+    30_slice0002.png           Beyin Yenme:   0.41%  Beyin Alan:  4.36%  Tiraslama: 0.018%
+    30_slice0003.png           Beyin Yenme:   0.32%  Beyin Alan:  8.57%  Tiraslama: 0.028%
+    30_slice0004.png           Beyin Yenme:   0.30%  Beyin Alan: 14.97%  Tiraslama: 0.045%
+    30_slice0005.png           Beyin Yenme:   0.08%  Beyin Alan: 19.55%  Tiraslama: 0.016%
+    30_slice0006.png           Beyin Yenme:   0.06%  Beyin Alan: 21.93%  Tiraslama: 0.014%
+    30_slice0007.png           Beyin Yenme:   0.12%  Beyin Alan: 22.66%  Tiraslama: 0.026%
+    30_slice0008.png           Beyin Yenme:   0.04%  Beyin Alan: 23.08%  Tiraslama: 0.009%
+    30_slice0009.png           Beyin Yenme:   0.07%  Beyin Alan: 23.22%  Tiraslama: 0.016%
+    30_slice0010.png           Beyin Yenme:   0.04%  Beyin Alan: 23.38%  Tiraslama: 0.009%
+    30_slice0011.png           Beyin Yenme:   0.04%  Beyin Alan: 22.94%  Tiraslama: 0.010%
+    30_slice0012.png           Beyin Yenme:   0.07%  Beyin Alan: 22.23%  Tiraslama: 0.015%
+    30_slice0013.png           Beyin Yenme:   0.03%  Beyin Alan: 21.32%  Tiraslama: 0.006%
+    30_slice0014.png           Beyin Yenme:   0.13%  Beyin Alan: 19.83%  Tiraslama: 0.026%
+    30_slice0015.png           Beyin Yenme:   0.01%  Beyin Alan: 18.00%  Tiraslama: 0.002%
+    30_slice0016.png           Beyin Yenme:   0.06%  Beyin Alan: 15.96%  Tiraslama: 0.010%
+    30_slice0017.png           Beyin Yenme:   0.10%  Beyin Alan: 14.18%  Tiraslama: 0.014%
+    30_slice0018.png           Beyin Yenme:   0.04%  Beyin Alan: 11.70%  Tiraslama: 0.005%
+    30_slice0019.png           Beyin Yenme:   0.05%  Beyin Alan:  9.02%  Tiraslama: 0.005%
+    30_slice0020.png           Beyin Yenme:   0.03%  Beyin Alan:  6.20%  Tiraslama: 0.002%
+    30_slice0021.png           Beyin Yenme:   0.00%  Beyin Alan:  3.69%  Tiraslama: 0.000%
+
+  [ Hasta 31 — 65 dilim ]
+    31_slice0004.png           Beyin Yenme:   0.23%  Beyin Alan:  1.48%  Tiraslama: 0.003%
+    31_slice0005.png           Beyin Yenme:   0.19%  Beyin Alan:  2.44%  Tiraslama: 0.005%
+    31_slice0006.png           Beyin Yenme:   0.19%  Beyin Alan:  3.82%  Tiraslama: 0.007%
+    31_slice0007.png           Beyin Yenme:   0.17%  Beyin Alan:  4.97%  Tiraslama: 0.008%
+    31_slice0008.png           Beyin Yenme:   0.27%  Beyin Alan:  6.14%  Tiraslama: 0.016%
+    31_slice0009.png           Beyin Yenme:   0.34%  Beyin Alan:  7.12%  Tiraslama: 0.024%
+    31_slice0010.png           Beyin Yenme:   0.28%  Beyin Alan:  8.02%  Tiraslama: 0.022%
+    31_slice0011.png           Beyin Yenme:   0.27%  Beyin Alan:  8.78%  Tiraslama: 0.024%
+    31_slice0012.png           Beyin Yenme:   0.13%  Beyin Alan:  9.11%  Tiraslama: 0.011%
+    31_slice0013.png           Beyin Yenme:   0.18%  Beyin Alan:  9.72%  Tiraslama: 0.018%
+    31_slice0014.png           Beyin Yenme:   0.15%  Beyin Alan: 10.26%  Tiraslama: 0.015%
+    31_slice0015.png           Beyin Yenme:   0.21%  Beyin Alan: 10.77%  Tiraslama: 0.022%
+    31_slice0016.png           Beyin Yenme:   0.34%  Beyin Alan: 11.14%  Tiraslama: 0.038%
+    31_slice0017.png           Beyin Yenme:   0.18%  Beyin Alan: 11.84%  Tiraslama: 0.021%
+    31_slice0018.png           Beyin Yenme:   0.42%  Beyin Alan: 12.91%  Tiraslama: 0.054%
+    31_slice0019.png           Beyin Yenme:   0.19%  Beyin Alan: 13.97%  Tiraslama: 0.026%
+    31_slice0020.png           Beyin Yenme:   0.24%  Beyin Alan: 15.48%  Tiraslama: 0.037%
+    31_slice0021.png           Beyin Yenme:   0.22%  Beyin Alan: 17.16%  Tiraslama: 0.038%
+    31_slice0022.png           Beyin Yenme:   0.20%  Beyin Alan: 19.75%  Tiraslama: 0.039%
+    31_slice0023.png           Beyin Yenme:   0.18%  Beyin Alan: 21.34%  Tiraslama: 0.039%
+    31_slice0024.png           Beyin Yenme:   0.18%  Beyin Alan: 22.58%  Tiraslama: 0.041%
+    31_slice0025.png           Beyin Yenme:   0.12%  Beyin Alan: 23.08%  Tiraslama: 0.028%
+    31_slice0026.png           Beyin Yenme:   0.07%  Beyin Alan: 23.37%  Tiraslama: 0.017%
+    31_slice0027.png           Beyin Yenme:   0.15%  Beyin Alan: 24.05%  Tiraslama: 0.037%
+    31_slice0028.png           Beyin Yenme:   0.12%  Beyin Alan: 24.74%  Tiraslama: 0.030%
+    31_slice0029.png           Beyin Yenme:   0.20%  Beyin Alan: 25.81%  Tiraslama: 0.052%
+    31_slice0030.png           Beyin Yenme:   0.14%  Beyin Alan: 26.31%  Tiraslama: 0.038%
+    31_slice0031.png           Beyin Yenme:   0.11%  Beyin Alan: 26.74%  Tiraslama: 0.030%
+    31_slice0032.png           Beyin Yenme:   0.14%  Beyin Alan: 27.12%  Tiraslama: 0.039%
+    31_slice0033.png           Beyin Yenme:   0.15%  Beyin Alan: 27.35%  Tiraslama: 0.042%
+    31_slice0034.png           Beyin Yenme:   0.17%  Beyin Alan: 27.64%  Tiraslama: 0.046%
+    31_slice0035.png           Beyin Yenme:   0.18%  Beyin Alan: 28.08%  Tiraslama: 0.050%
+    31_slice0036.png           Beyin Yenme:   0.14%  Beyin Alan: 28.51%  Tiraslama: 0.038%
+    31_slice0037.png           Beyin Yenme:   0.15%  Beyin Alan: 28.84%  Tiraslama: 0.043%
+    31_slice0038.png           Beyin Yenme:   0.12%  Beyin Alan: 28.98%  Tiraslama: 0.036%
+    31_slice0039.png           Beyin Yenme:   0.10%  Beyin Alan: 28.97%  Tiraslama: 0.029%
+    31_slice0040.png           Beyin Yenme:   0.11%  Beyin Alan: 28.88%  Tiraslama: 0.031%
+    31_slice0041.png           Beyin Yenme:   0.10%  Beyin Alan: 28.76%  Tiraslama: 0.030%
+    31_slice0042.png           Beyin Yenme:   0.12%  Beyin Alan: 28.56%  Tiraslama: 0.034%
+    31_slice0043.png           Beyin Yenme:   0.10%  Beyin Alan: 28.29%  Tiraslama: 0.029%
+    31_slice0044.png           Beyin Yenme:   0.10%  Beyin Alan: 28.00%  Tiraslama: 0.029%
+    31_slice0045.png           Beyin Yenme:   0.13%  Beyin Alan: 27.66%  Tiraslama: 0.035%
+    31_slice0046.png           Beyin Yenme:   0.08%  Beyin Alan: 27.20%  Tiraslama: 0.021%
+    31_slice0047.png           Beyin Yenme:   0.12%  Beyin Alan: 26.69%  Tiraslama: 0.032%
+    31_slice0048.png           Beyin Yenme:   0.13%  Beyin Alan: 26.08%  Tiraslama: 0.034%
+    31_slice0049.png           Beyin Yenme:   0.12%  Beyin Alan: 25.40%  Tiraslama: 0.029%
+    31_slice0050.png           Beyin Yenme:   0.10%  Beyin Alan: 24.60%  Tiraslama: 0.025%
+    31_slice0051.png           Beyin Yenme:   0.13%  Beyin Alan: 23.75%  Tiraslama: 0.030%
+    31_slice0052.png           Beyin Yenme:   0.13%  Beyin Alan: 22.80%  Tiraslama: 0.030%
+    31_slice0053.png           Beyin Yenme:   0.12%  Beyin Alan: 21.73%  Tiraslama: 0.026%
+    31_slice0054.png           Beyin Yenme:   0.14%  Beyin Alan: 20.62%  Tiraslama: 0.028%
+    31_slice0055.png           Beyin Yenme:   0.14%  Beyin Alan: 19.45%  Tiraslama: 0.027%
+    31_slice0056.png           Beyin Yenme:   0.11%  Beyin Alan: 18.19%  Tiraslama: 0.019%
+    31_slice0057.png           Beyin Yenme:   0.21%  Beyin Alan: 16.89%  Tiraslama: 0.036%
+    31_slice0058.png           Beyin Yenme:   0.16%  Beyin Alan: 15.49%  Tiraslama: 0.025%
+    31_slice0059.png           Beyin Yenme:   0.18%  Beyin Alan: 14.12%  Tiraslama: 0.026%
+    31_slice0060.png           Beyin Yenme:   0.20%  Beyin Alan: 12.66%  Tiraslama: 0.025%
+    31_slice0061.png           Beyin Yenme:   0.23%  Beyin Alan: 11.27%  Tiraslama: 0.026%
+    31_slice0062.png           Beyin Yenme:   0.29%  Beyin Alan:  9.88%  Tiraslama: 0.029%
+    31_slice0063.png           Beyin Yenme:   0.30%  Beyin Alan:  8.48%  Tiraslama: 0.026%
+    31_slice0064.png           Beyin Yenme:   0.45%  Beyin Alan:  7.07%  Tiraslama: 0.032%
+    31_slice0066.png           Beyin Yenme:   0.09%  Beyin Alan:  4.31%  Tiraslama: 0.004%
+    31_slice0067.png           Beyin Yenme:   0.14%  Beyin Alan:  3.09%  Tiraslama: 0.004%
+    31_slice0068.png           Beyin Yenme:   0.10%  Beyin Alan:  1.91%  Tiraslama: 0.002%
+    31_slice0069.png           Beyin Yenme:   0.17%  Beyin Alan:  0.69%  Tiraslama: 0.001%
+
+  [ Hasta 32 — 22 dilim ]
+    32_slice0010.png           Beyin Yenme:   0.24%  Beyin Alan:  3.62%  Tiraslama: 0.009%
+    32_slice0011.png           Beyin Yenme:   0.43%  Beyin Alan:  5.58%  Tiraslama: 0.024%
+    32_slice0012.png           Beyin Yenme:   0.38%  Beyin Alan:  8.06%  Tiraslama: 0.030%
+    32_slice0013.png           Beyin Yenme:   0.12%  Beyin Alan: 11.08%  Tiraslama: 0.013%
+    32_slice0014.png           Beyin Yenme:   0.34%  Beyin Alan: 15.27%  Tiraslama: 0.052%
+    32_slice0016.png           Beyin Yenme:   0.19%  Beyin Alan: 21.88%  Tiraslama: 0.041%
+    32_slice0017.png           Beyin Yenme:   0.13%  Beyin Alan: 24.44%  Tiraslama: 0.033%
+    32_slice0018.png           Beyin Yenme:   0.36%  Beyin Alan: 26.37%  Tiraslama: 0.095%
+    32_slice0019.png           Beyin Yenme:   0.37%  Beyin Alan: 27.85%  Tiraslama: 0.104%
+    32_slice0020.png           Beyin Yenme:   0.42%  Beyin Alan: 28.95%  Tiraslama: 0.123%
+    32_slice0024.png           Beyin Yenme:   0.16%  Beyin Alan: 27.55%  Tiraslama: 0.044%
+    32_slice0025.png           Beyin Yenme:   0.08%  Beyin Alan: 25.96%  Tiraslama: 0.020%
+    32_slice0026.png           Beyin Yenme:   0.20%  Beyin Alan: 24.39%  Tiraslama: 0.049%
+    32_slice0027.png           Beyin Yenme:   0.16%  Beyin Alan: 22.77%  Tiraslama: 0.036%
+    32_slice0028.png           Beyin Yenme:   0.07%  Beyin Alan: 21.01%  Tiraslama: 0.014%
+    32_slice0029.png           Beyin Yenme:   0.00%  Beyin Alan: 18.45%  Tiraslama: 0.000%
+    32_slice0030.png           Beyin Yenme:   0.00%  Beyin Alan: 16.28%  Tiraslama: 0.000%
+    32_slice0031.png           Beyin Yenme:   0.00%  Beyin Alan: 13.77%  Tiraslama: 0.000%
+    32_slice0032.png           Beyin Yenme:   0.00%  Beyin Alan: 11.18%  Tiraslama: 0.000%
+    32_slice0033.png           Beyin Yenme:   0.00%  Beyin Alan:  8.09%  Tiraslama: 0.000%
+    32_slice0034.png           Beyin Yenme:   0.00%  Beyin Alan:  5.54%  Tiraslama: 0.000%
+    32_slice0035.png           Beyin Yenme:   0.00%  Beyin Alan:  3.11%  Tiraslama: 0.000%
+
+  [ Hasta 33 — 22 dilim ]
+    33_slice0008.png           Beyin Yenme:   0.36%  Beyin Alan: 11.76%  Tiraslama: 0.043%
+    33_slice0009.png           Beyin Yenme:   0.26%  Beyin Alan: 21.83%  Tiraslama: 0.058%
+    33_slice0010.png           Beyin Yenme:   0.15%  Beyin Alan: 28.31%  Tiraslama: 0.043%
+    33_slice0011.png           Beyin Yenme:   0.16%  Beyin Alan: 31.58%  Tiraslama: 0.050%
+    33_slice0012.png           Beyin Yenme:   0.18%  Beyin Alan: 34.00%  Tiraslama: 0.061%
+    33_slice0013.png           Beyin Yenme:   0.12%  Beyin Alan: 35.37%  Tiraslama: 0.043%
+    33_slice0014.png           Beyin Yenme:   0.13%  Beyin Alan: 35.68%  Tiraslama: 0.045%
+    33_slice0015.png           Beyin Yenme:   0.20%  Beyin Alan: 35.31%  Tiraslama: 0.069%
+    33_slice0016.png           Beyin Yenme:   0.10%  Beyin Alan: 34.44%  Tiraslama: 0.035%
+    33_slice0017.png           Beyin Yenme:   0.16%  Beyin Alan: 33.56%  Tiraslama: 0.054%
+    33_slice0018.png           Beyin Yenme:   0.13%  Beyin Alan: 32.60%  Tiraslama: 0.044%
+    33_slice0019.png           Beyin Yenme:   0.10%  Beyin Alan: 31.66%  Tiraslama: 0.032%
+    33_slice0020.png           Beyin Yenme:   0.19%  Beyin Alan: 30.52%  Tiraslama: 0.057%
+    33_slice0021.png           Beyin Yenme:   0.12%  Beyin Alan: 28.71%  Tiraslama: 0.035%
+    33_slice0022.png           Beyin Yenme:   0.17%  Beyin Alan: 26.36%  Tiraslama: 0.045%
+    33_slice0023.png           Beyin Yenme:   0.13%  Beyin Alan: 23.46%  Tiraslama: 0.030%
+    33_slice0024.png           Beyin Yenme:   0.17%  Beyin Alan: 20.47%  Tiraslama: 0.035%
+    33_slice0025.png           Beyin Yenme:   0.32%  Beyin Alan: 17.50%  Tiraslama: 0.055%
+    33_slice0026.png           Beyin Yenme:   0.26%  Beyin Alan: 14.11%  Tiraslama: 0.036%
+    33_slice0027.png           Beyin Yenme:   0.29%  Beyin Alan: 10.76%  Tiraslama: 0.031%
+    33_slice0028.png           Beyin Yenme:   0.23%  Beyin Alan:  7.29%  Tiraslama: 0.017%
+    33_slice0029.png           Beyin Yenme:   0.37%  Beyin Alan:  2.35%  Tiraslama: 0.009%
+
+  [ Hasta 34 — 27 dilim ]
+    34_slice0004.png           Beyin Yenme:   0.06%  Beyin Alan:  2.59%  Tiraslama: 0.002%
+    34_slice0005.png           Beyin Yenme:   0.18%  Beyin Alan:  4.95%  Tiraslama: 0.009%
+    34_slice0006.png           Beyin Yenme:   0.18%  Beyin Alan:  7.95%  Tiraslama: 0.014%
+    34_slice0007.png           Beyin Yenme:   0.17%  Beyin Alan: 10.19%  Tiraslama: 0.018%
+    34_slice0008.png           Beyin Yenme:   0.16%  Beyin Alan: 11.63%  Tiraslama: 0.018%
+    34_slice0009.png           Beyin Yenme:   0.32%  Beyin Alan: 14.82%  Tiraslama: 0.048%
+    34_slice0010.png           Beyin Yenme:   0.20%  Beyin Alan: 19.32%  Tiraslama: 0.039%
+    34_slice0011.png           Beyin Yenme:   0.24%  Beyin Alan: 21.64%  Tiraslama: 0.053%
+    34_slice0012.png           Beyin Yenme:   0.20%  Beyin Alan: 25.16%  Tiraslama: 0.050%
+    34_slice0013.png           Beyin Yenme:   0.22%  Beyin Alan: 27.77%  Tiraslama: 0.061%
+    34_slice0014.png           Beyin Yenme:   0.24%  Beyin Alan: 30.53%  Tiraslama: 0.073%
+    34_slice0015.png           Beyin Yenme:   0.19%  Beyin Alan: 32.33%  Tiraslama: 0.061%
+    34_slice0016.png           Beyin Yenme:   0.19%  Beyin Alan: 33.89%  Tiraslama: 0.065%
+    34_slice0017.png           Beyin Yenme:   0.17%  Beyin Alan: 34.31%  Tiraslama: 0.059%
+    34_slice0018.png           Beyin Yenme:   0.21%  Beyin Alan: 33.87%  Tiraslama: 0.071%
+    34_slice0019.png           Beyin Yenme:   0.19%  Beyin Alan: 33.07%  Tiraslama: 0.062%
+    34_slice0020.png           Beyin Yenme:   0.16%  Beyin Alan: 31.69%  Tiraslama: 0.049%
+    34_slice0021.png           Beyin Yenme:   0.13%  Beyin Alan: 29.71%  Tiraslama: 0.039%
+    34_slice0022.png           Beyin Yenme:   0.15%  Beyin Alan: 27.10%  Tiraslama: 0.040%
+    34_slice0023.png           Beyin Yenme:   0.14%  Beyin Alan: 26.29%  Tiraslama: 0.037%
+    34_slice0024.png           Beyin Yenme:   0.16%  Beyin Alan: 22.99%  Tiraslama: 0.037%
+    34_slice0025.png           Beyin Yenme:   0.14%  Beyin Alan: 19.87%  Tiraslama: 0.028%
+    34_slice0026.png           Beyin Yenme:   0.20%  Beyin Alan: 15.87%  Tiraslama: 0.032%
+    34_slice0027.png           Beyin Yenme:   0.24%  Beyin Alan: 11.99%  Tiraslama: 0.029%
+    34_slice0028.png           Beyin Yenme:   0.46%  Beyin Alan:  7.28%  Tiraslama: 0.033%
+    34_slice0029.png           Beyin Yenme:   0.41%  Beyin Alan:  2.67%  Tiraslama: 0.011%
+    34_slice0030.png           Beyin Yenme:   0.16%  Beyin Alan:  0.24%  Tiraslama: 0.000%
+
+  [ Hasta 35 — 16 dilim ]
+    35_slice0006.png           Beyin Yenme:   0.33%  Beyin Alan:  1.40%  Tiraslama: 0.005%
+    35_slice0007.png           Beyin Yenme:   0.03%  Beyin Alan:  3.57%  Tiraslama: 0.001%
+    35_slice0008.png           Beyin Yenme:   0.18%  Beyin Alan:  6.41%  Tiraslama: 0.011%
+    35_slice0009.png           Beyin Yenme:   0.16%  Beyin Alan:  9.33%  Tiraslama: 0.015%
+    35_slice0010.png           Beyin Yenme:   0.16%  Beyin Alan: 12.37%  Tiraslama: 0.020%
+    35_slice0012.png           Beyin Yenme:   0.39%  Beyin Alan: 17.28%  Tiraslama: 0.067%
+    35_slice0013.png           Beyin Yenme:   0.31%  Beyin Alan: 20.43%  Tiraslama: 0.063%
+    35_slice0014.png           Beyin Yenme:   0.39%  Beyin Alan: 24.07%  Tiraslama: 0.093%
+    35_slice0026.png           Beyin Yenme:   0.30%  Beyin Alan: 25.68%  Tiraslama: 0.077%
+    35_slice0028.png           Beyin Yenme:   0.20%  Beyin Alan: 21.40%  Tiraslama: 0.043%
+    35_slice0029.png           Beyin Yenme:   0.07%  Beyin Alan: 18.71%  Tiraslama: 0.013%
+    35_slice0030.png           Beyin Yenme:   0.04%  Beyin Alan: 15.69%  Tiraslama: 0.006%
+    35_slice0031.png           Beyin Yenme:   0.06%  Beyin Alan: 12.46%  Tiraslama: 0.007%
+    35_slice0032.png           Beyin Yenme:   0.01%  Beyin Alan:  8.95%  Tiraslama: 0.001%
+    35_slice0033.png           Beyin Yenme:   0.00%  Beyin Alan:  5.63%  Tiraslama: 0.000%
+    35_slice0034.png           Beyin Yenme:   0.00%  Beyin Alan:  2.33%  Tiraslama: 0.000%
+
+======================================================================
+  ÖZET
+======================================================================
+  ⚫ KRİTİK (%100 Beyin Yenme)                  1 dilim  (%0.1)
+  🔴 KÖTÜ   (Beyin Yenmiş)                     49 dilim  (%3.9)
+  🟡 ORTA   (Az Beyin Yenmiş)                  46 dilim  (%3.7)
+  🟢 İYİ                                      314 dilim  (%25.1)
+  ✅ TIRAŞLAMA YOK                            843 dilim  (%67.3)
+  TOPLAM: 1253 dilim
+======================================================================

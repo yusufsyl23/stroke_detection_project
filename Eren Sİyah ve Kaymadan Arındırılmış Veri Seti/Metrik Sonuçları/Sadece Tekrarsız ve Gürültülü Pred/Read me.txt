@@ -1,0 +1,2 @@
+Burada kayamalar düzeltilmiş uzman 2 maskelerinde sadece tekrar edenler silindi ve Pred olarak gürültülü algoritma çıktısı beyin maskeleri kullanıldı. Traşlama yapılmadı.
+

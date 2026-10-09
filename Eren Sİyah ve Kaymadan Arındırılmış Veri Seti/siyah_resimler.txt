@@ -1,0 +1,40 @@
+01_slice0031.png
+01_slice0032.png
+01_slice0049.png
+02_slice0017.png
+02_slice0019.png
+02_slice0020.png
+02_slice0021.png
+02_slice0022.png
+02_slice0023.png
+02_slice0024.png
+02_slice0072.png  a
+03_slice0074.png  a
+04_slice0021.png
+04_slice0026.png
+04_slice0027.png
+04_slice0028.png
+04_slice0058.png  a
+06_slice0005.png
+06_slice0009.png
+06_slice0018.png
+07_slice0037.png
+07_slice0039.png
+08_slice0021.png
+08_slice0022.png
+08_slice0025.png
+09_slice0022.png
+09_slice0054.png
+10_slice0049.png
+11_slice0058.png
+15_slice0019.png
+15_slice0020.png
+26_slice0028.png  a
+27_slice0003.png
+28_slice0008.png
+29_slice0013.png
+31_slice0006.png
+34_slice0030.png
+
+
+burada a olanlara bakılabilir. Diğerlerinde algortima hataşı zaten bulamamış

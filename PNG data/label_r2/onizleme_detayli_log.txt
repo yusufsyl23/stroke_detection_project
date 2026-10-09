@@ -1,0 +1,656 @@
+SIRALI DUPLICATE TEMİZLEYİCİ - DRY RUN
+Tarih: 2026-03-01 09:23:27
+Klasör: C:\Users\Yusuf Soylu\Desktop\GPT Sil Baştan\PNG data\label_r2
+Expected shape: (512, 512)
+IoU Threshold: 0.99
+ALLOW_AUTOFIX_NONBINARY: False
+TREAT_ALL_EMPTY_AS_DUPLICATE: True
+Duplicate grup sayısı: 148
+Silinecek dosya sayısı: 201
+================================================================================
+
+Grup 1:
+  KORUNAN: 02_slice0005.png
+  SİLİNDİ: 02_slice0006.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 2:
+  KORUNAN: 02_slice0009.png
+  SİLİNDİ: 02_slice0010.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 3:
+  KORUNAN: 02_slice0012.png
+  SİLİNDİ: 02_slice0013.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 4:
+  KORUNAN: 02_slice0015.png
+  SİLİNDİ: 02_slice0016.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 5:
+  KORUNAN: 02_slice0018.png
+  SİLİNDİ: 02_slice0019.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 6:
+  KORUNAN: 02_slice0022.png
+  SİLİNDİ: 02_slice0023.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 7:
+  KORUNAN: 02_slice0025.png
+  SİLİNDİ: 02_slice0026.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 8:
+  KORUNAN: 02_slice0029.png
+  SİLİNDİ: 02_slice0030.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 9:
+  KORUNAN: 02_slice0031.png
+  SİLİNDİ: 02_slice0032.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 02_slice0033.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 10:
+  KORUNAN: 02_slice0034.png
+  SİLİNDİ: 02_slice0035.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 11:
+  KORUNAN: 02_slice0036.png
+  SİLİNDİ: 02_slice0037.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 02_slice0038.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 12:
+  KORUNAN: 02_slice0039.png
+  SİLİNDİ: 02_slice0040.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 02_slice0041.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 13:
+  KORUNAN: 02_slice0042.png
+  SİLİNDİ: 02_slice0043.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 02_slice0044.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 14:
+  KORUNAN: 02_slice0045.png
+  SİLİNDİ: 02_slice0046.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 02_slice0047.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 15:
+  KORUNAN: 02_slice0048.png
+  SİLİNDİ: 02_slice0049.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 02_slice0050.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 16:
+  KORUNAN: 02_slice0051.png
+  SİLİNDİ: 02_slice0052.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 02_slice0053.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 17:
+  KORUNAN: 02_slice0054.png
+  SİLİNDİ: 02_slice0055.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 02_slice0056.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 18:
+  KORUNAN: 02_slice0057.png
+  SİLİNDİ: 02_slice0058.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 02_slice0059.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 19:
+  KORUNAN: 02_slice0060.png
+  SİLİNDİ: 02_slice0061.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 20:
+  KORUNAN: 02_slice0062.png
+  SİLİNDİ: 02_slice0063.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 02_slice0064.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 21:
+  KORUNAN: 02_slice0065.png
+  SİLİNDİ: 02_slice0066.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 02_slice0067.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 22:
+  KORUNAN: 02_slice0068.png
+  SİLİNDİ: 02_slice0069.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 02_slice0070.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 23:
+  KORUNAN: 02_slice0071.png
+  SİLİNDİ: 02_slice0072.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 24:
+  KORUNAN: 03_slice0006.png
+  SİLİNDİ: 03_slice0007.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 25:
+  KORUNAN: 03_slice0010.png
+  SİLİNDİ: 03_slice0011.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 26:
+  KORUNAN: 03_slice0013.png
+  SİLİNDİ: 03_slice0014.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 27:
+  KORUNAN: 03_slice0017.png
+  SİLİNDİ: 03_slice0018.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 28:
+  KORUNAN: 03_slice0020.png
+  SİLİNDİ: 03_slice0021.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 29:
+  KORUNAN: 03_slice0024.png
+  SİLİNDİ: 03_slice0025.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 30:
+  KORUNAN: 03_slice0029.png
+  SİLİNDİ: 03_slice0030.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0031.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 31:
+  KORUNAN: 03_slice0032.png
+  SİLİNDİ: 03_slice0033.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0034.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 32:
+  KORUNAN: 03_slice0035.png
+  SİLİNDİ: 03_slice0036.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0037.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 33:
+  KORUNAN: 03_slice0038.png
+  SİLİNDİ: 03_slice0039.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 34:
+  KORUNAN: 03_slice0040.png
+  SİLİNDİ: 03_slice0041.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0042.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 35:
+  KORUNAN: 03_slice0043.png
+  SİLİNDİ: 03_slice0044.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0045.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 36:
+  KORUNAN: 03_slice0046.png
+  SİLİNDİ: 03_slice0047.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0048.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 37:
+  KORUNAN: 03_slice0049.png
+  SİLİNDİ: 03_slice0050.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 38:
+  KORUNAN: 03_slice0051.png
+  SİLİNDİ: 03_slice0052.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0053.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 39:
+  KORUNAN: 03_slice0054.png
+  SİLİNDİ: 03_slice0055.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0056.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 40:
+  KORUNAN: 03_slice0057.png
+  SİLİNDİ: 03_slice0058.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0059.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 41:
+  KORUNAN: 03_slice0060.png
+  SİLİNDİ: 03_slice0061.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0062.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 42:
+  KORUNAN: 03_slice0063.png
+  SİLİNDİ: 03_slice0064.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 43:
+  KORUNAN: 03_slice0065.png
+  SİLİNDİ: 03_slice0066.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0067.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 44:
+  KORUNAN: 03_slice0068.png
+  SİLİNDİ: 03_slice0069.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0070.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 45:
+  KORUNAN: 03_slice0071.png
+  SİLİNDİ: 03_slice0072.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 03_slice0073.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 46:
+  KORUNAN: 03_slice0074.png
+  SİLİNDİ: 03_slice0075.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 47:
+  KORUNAN: 05_slice0008.png
+  SİLİNDİ: 05_slice0009.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 48:
+  KORUNAN: 05_slice0018.png
+  SİLİNDİ: 05_slice0019.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 49:
+  KORUNAN: 05_slice0020.png
+  SİLİNDİ: 05_slice0021.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 50:
+  KORUNAN: 05_slice0022.png
+  SİLİNDİ: 05_slice0023.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 51:
+  KORUNAN: 05_slice0024.png
+  SİLİNDİ: 05_slice0025.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 52:
+  KORUNAN: 05_slice0026.png
+  SİLİNDİ: 05_slice0027.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 53:
+  KORUNAN: 05_slice0028.png
+  SİLİNDİ: 05_slice0029.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 54:
+  KORUNAN: 05_slice0030.png
+  SİLİNDİ: 05_slice0031.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 55:
+  KORUNAN: 05_slice0032.png
+  SİLİNDİ: 05_slice0033.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 05_slice0034.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 56:
+  KORUNAN: 05_slice0035.png
+  SİLİNDİ: 05_slice0036.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 57:
+  KORUNAN: 05_slice0037.png
+  SİLİNDİ: 05_slice0038.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 58:
+  KORUNAN: 05_slice0039.png
+  SİLİNDİ: 05_slice0040.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 59:
+  KORUNAN: 05_slice0041.png
+  SİLİNDİ: 05_slice0042.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 60:
+  KORUNAN: 05_slice0043.png
+  SİLİNDİ: 05_slice0044.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 61:
+  KORUNAN: 05_slice0045.png
+  SİLİNDİ: 05_slice0046.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 62:
+  KORUNAN: 05_slice0047.png
+  SİLİNDİ: 05_slice0048.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 05_slice0049.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 63:
+  KORUNAN: 05_slice0050.png
+  SİLİNDİ: 05_slice0051.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 64:
+  KORUNAN: 05_slice0052.png
+  SİLİNDİ: 05_slice0053.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 65:
+  KORUNAN: 05_slice0054.png
+  SİLİNDİ: 05_slice0055.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 66:
+  KORUNAN: 05_slice0056.png
+  SİLİNDİ: 05_slice0057.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 67:
+  KORUNAN: 05_slice0058.png
+  SİLİNDİ: 05_slice0059.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 68:
+  KORUNAN: 05_slice0060.png
+  SİLİNDİ: 05_slice0061.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 69:
+  KORUNAN: 05_slice0062.png
+  SİLİNDİ: 05_slice0063.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 05_slice0064.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 70:
+  KORUNAN: 07_slice0014.png
+  SİLİNDİ: 07_slice0015.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 71:
+  KORUNAN: 07_slice0023.png
+  SİLİNDİ: 07_slice0024.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 72:
+  KORUNAN: 07_slice0032.png
+  SİLİNDİ: 07_slice0033.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 73:
+  KORUNAN: 07_slice0042.png
+  SİLİNDİ: 07_slice0043.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 74:
+  KORUNAN: 07_slice0051.png
+  SİLİNDİ: 07_slice0052.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 75:
+  KORUNAN: 08_slice0017.png						X
+  SİLİNDİ: 08_slice0018.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 76:
+  KORUNAN: 08_slice0019.png						X
+  SİLİNDİ: 08_slice0020.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 77:
+  KORUNAN: 08_slice0021.png						X
+  SİLİNDİ: 08_slice0022.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 78:
+  KORUNAN: 08_slice0023.png						X
+  SİLİNDİ: 08_slice0024.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 79:
+  KORUNAN: 08_slice0025.png						X
+  SİLİNDİ: 08_slice0026.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 80:
+  KORUNAN: 08_slice0027.png						X
+  SİLİNDİ: 08_slice0028.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 81:
+  KORUNAN: 08_slice0029.png						X
+  SİLİNDİ: 08_slice0030.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 82:
+  KORUNAN: 08_slice0031.png						X
+  SİLİNDİ: 08_slice0032.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 83:
+  KORUNAN: 08_slice0033.png						X
+  SİLİNDİ: 08_slice0034.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 84:
+  KORUNAN: 08_slice0035.png						X
+  SİLİNDİ: 08_slice0036.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 85:
+  KORUNAN: 08_slice0037.png						X
+  SİLİNDİ: 08_slice0038.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 86:
+  KORUNAN: 08_slice0039.png						X
+  SİLİNDİ: 08_slice0040.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 87:
+  KORUNAN: 08_slice0041.png
+  SİLİNDİ: 08_slice0042.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 88:
+  KORUNAN: 08_slice0043.png
+  SİLİNDİ: 08_slice0044.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 89:
+  KORUNAN: 08_slice0045.png
+  SİLİNDİ: 08_slice0046.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 90:
+  KORUNAN: 08_slice0047.png
+  SİLİNDİ: 08_slice0048.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 91:
+  KORUNAN: 08_slice0049.png
+  SİLİNDİ: 08_slice0050.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 92:
+  KORUNAN: 08_slice0051.png
+  SİLİNDİ: 08_slice0052.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 93:
+  KORUNAN: 08_slice0053.png
+  SİLİNDİ: 08_slice0054.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 94:
+  KORUNAN: 08_slice0055.png
+  SİLİNDİ: 08_slice0056.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 95:
+  KORUNAN: 08_slice0057.png
+  SİLİNDİ: 08_slice0058.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 96:
+  KORUNAN: 08_slice0059.png
+  SİLİNDİ: 08_slice0060.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 97:
+  KORUNAN: 09_slice0005.png						X
+  SİLİNDİ: 09_slice0006.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 98:
+  KORUNAN: 09_slice0007.png						X
+  SİLİNDİ: 09_slice0008.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 99:
+  KORUNAN: 09_slice0010.png						X
+  SİLİNDİ: 09_slice0011.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 100:
+  KORUNAN: 09_slice0013.png						X
+  SİLİNDİ: 09_slice0014.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 101:
+  KORUNAN: 09_slice0017.png						X
+  SİLİNDİ: 09_slice0018.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 102:
+  KORUNAN: 09_slice0019.png						X
+  SİLİNDİ: 09_slice0020.png   (IoU=1.00000 | Benzerlik=%100.00)		X	
+  SİLİNDİ: 09_slice0021.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 103:
+  KORUNAN: 09_slice0022.png						X
+  SİLİNDİ: 09_slice0023.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 104:
+  KORUNAN: 09_slice0024.png						X
+  SİLİNDİ: 09_slice0025.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+  SİLİNDİ: 09_slice0026.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 105:
+  KORUNAN: 09_slice0027.png						X?
+  SİLİNDİ: 09_slice0028.png   (IoU=1.00000 | Benzerlik=%100.00)		X?
+
+Grup 106:
+  KORUNAN: 09_slice0029.png						X
+  SİLİNDİ: 09_slice0030.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 107:
+  KORUNAN: 09_slice0031.png						X?
+  SİLİNDİ: 09_slice0032.png   (IoU=1.00000 | Benzerlik=%100.00)		X?
+  SİLİNDİ: 09_slice0033.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 108:
+  KORUNAN: 09_slice0034.png
+  SİLİNDİ: 09_slice0035.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 109:
+  KORUNAN: 09_slice0036.png
+  SİLİNDİ: 09_slice0037.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 110:
+  KORUNAN: 09_slice0038.png
+  SİLİNDİ: 09_slice0039.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+  SİLİNDİ: 09_slice0040.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 111:
+  KORUNAN: 09_slice0041.png
+  SİLİNDİ: 09_slice0042.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 112:
+  KORUNAN: 09_slice0043.png
+  SİLİNDİ: 09_slice0044.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 113:
+  KORUNAN: 09_slice0045.png
+  SİLİNDİ: 09_slice0046.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+  SİLİNDİ: 09_slice0047.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 114:
+  KORUNAN: 09_slice0048.png
+  SİLİNDİ: 09_slice0049.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 115:
+  KORUNAN: 09_slice0050.png
+  SİLİNDİ: 09_slice0051.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 116:
+  KORUNAN: 09_slice0052.png
+  SİLİNDİ: 09_slice0053.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+  SİLİNDİ: 09_slice0054.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 117:
+  KORUNAN: 10_slice0026.png						X
+  SİLİNDİ: 10_slice0027.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 10_slice0028.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 118:
+  KORUNAN: 10_slice0029.png
+  SİLİNDİ: 10_slice0030.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 10_slice0031.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 119:
+  KORUNAN: 10_slice0032.png
+  SİLİNDİ: 10_slice0033.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 10_slice0034.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 120:
+  KORUNAN: 10_slice0035.png
+  SİLİNDİ: 10_slice0036.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 10_slice0037.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 121:
+  KORUNAN: 10_slice0038.png
+  SİLİNDİ: 10_slice0039.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 10_slice0040.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 122:
+  KORUNAN: 10_slice0041.png
+  SİLİNDİ: 10_slice0042.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 10_slice0043.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 123:
+  KORUNAN: 10_slice0044.png
+  SİLİNDİ: 10_slice0045.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 10_slice0046.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 124:
+  KORUNAN: 10_slice0047.png
+  SİLİNDİ: 10_slice0048.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 10_slice0049.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+	
+Grup 125:
+  KORUNAN: 11_slice0026.png						X
+  SİLİNDİ: 11_slice0027.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 11_slice0028.png   (IoU=1.00000 | Benzerlik=%100.00)		X?
+
+Grup 126:
+  KORUNAN: 11_slice0029.png						X
+  SİLİNDİ: 11_slice0030.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 11_slice0031.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 127:
+  KORUNAN: 11_slice0032.png						X
+  SİLİNDİ: 11_slice0033.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 11_slice0034.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 128:
+  KORUNAN: 11_slice0035.png
+  SİLİNDİ: 11_slice0036.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 11_slice0037.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 129:
+  KORUNAN: 11_slice0038.png
+  SİLİNDİ: 11_slice0039.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 11_slice0040.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 130:
+  KORUNAN: 11_slice0041.png
+  SİLİNDİ: 11_slice0042.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 11_slice0043.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 131:
+  KORUNAN: 11_slice0044.png
+  SİLİNDİ: 11_slice0045.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 11_slice0046.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 132:
+  KORUNAN: 11_slice0047.png
+  SİLİNDİ: 11_slice0048.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 11_slice0049.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 133:
+  KORUNAN: 11_slice0050.png
+  SİLİNDİ: 11_slice0051.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 11_slice0052.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 134:
+  KORUNAN: 11_slice0053.png
+  SİLİNDİ: 11_slice0054.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 11_slice0055.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 135:
+  KORUNAN: 11_slice0056.png
+  SİLİNDİ: 11_slice0057.png   (IoU=1.00000 | Benzerlik=%100.00)
+  SİLİNDİ: 11_slice0058.png   (IoU=1.00000 | Benzerlik=%100.00)		X
+
+Grup 136:
+  KORUNAN: 12_slice0016.png
+  SİLİNDİ: 12_slice0017.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 137:
+  KORUNAN: 14_slice0028.png
+  SİLİNDİ: 14_slice0029.png   (IoU=0.99970 | Benzerlik=%99.97)
+
+Grup 138:
+  KORUNAN: 15_slice0009.png
+  SİLİNDİ: 15_slice0010.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 139:
+  KORUNAN: 15_slice0026.png
+  SİLİNDİ: 15_slice0027.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 140:
+  KORUNAN: 16_slice0007.png
+  SİLİNDİ: 16_slice0008.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 141:
+  KORUNAN: 16_slice0020.png
+  SİLİNDİ: 16_slice0021.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 142:
+  KORUNAN: 17_slice0010.png
+  SİLİNDİ: 17_slice0011.png   (IoU=0.99343 | Benzerlik=%99.34)
+
+Grup 143:
+  KORUNAN: 17_slice0028.png
+  SİLİNDİ: 17_slice0029.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 144:
+  KORUNAN: 21_slice0010.png
+  SİLİNDİ: 21_slice0011.png   (IoU=0.99390 | Benzerlik=%99.39)
+
+Grup 145:
+  KORUNAN: 21_slice0028.png
+  SİLİNDİ: 21_slice0029.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 146:
+  KORUNAN: 35_slice0007.png
+  SİLİNDİ: 35_slice0008.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 147:
+  KORUNAN: 35_slice0020.png
+  SİLİNDİ: 35_slice0021.png   (IoU=1.00000 | Benzerlik=%100.00)
+
+Grup 148:
+  KORUNAN: 35_slice0033.png
+  SİLİNDİ: 35_slice0034.png   (IoU=1.00000 | Benzerlik=%100.00)
+
